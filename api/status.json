@@ -1,0 +1,9 @@
+{
+    "isOnline": true,
+    "offlineMessage" : "Reason",
+    "version": "1.0.1.9",
+    "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/797659220354138182/Juicy_Swapper.exe",
+    "updaterlink": "https://cdn.discordapp.com/attachments/729442108703899730/780496206203584512/JuicySwapper_Updater.exe",
+    "annoucement": false,
+    "annoucementmessage": "this is a test"
+}

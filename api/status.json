@@ -1,8 +1,8 @@
 {
-    "isOnline": false,
+    "isOnline": true,
     "offlineMessage" : "Fortnite v15.30 update.",
-    "version": "1.0.2.0",
-    "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/803030367346098196/Juicy_Swapper.exe",
+    "version": "1.0.2.1",
+    "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/806887951275524096/Juicy_Swapper.exe",
     "updaterlink": "https://cdn.discordapp.com/attachments/729442108703899730/780496206203584512/JuicySwapper_Updater.exe",
     "annoucement": false,
     "annoucementmessage": "this is a test"

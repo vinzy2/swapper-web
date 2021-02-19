@@ -1,10 +1,10 @@
 {
     "news": {
         "title": "Juicy Swapper",
-        "body": "Welcome, if you run into any bugs please\nreport them to kaede immediately please.\nEnjoy using Juicy Swapper and feel free to join\nour discord for help.",
+        "body": "Welcome, you can now create your own\naccount for Juicy Swapper! Why create\nan account? A Juicy account provid\nmore options then a guest would have!\nif you run into any bugs please\nreport them to kaede immediately please.\nEnjoy using Juicy Swapper and feel free to join\nour discord for help.",
         "image": "https://i.imgur.com/DwO15Pv.png"
     },
     "patchnotes": {
-        "body": "[#] Fixed Sparkle Specialist\n[#] Fixed Recon Expert\n[#] Fixed Dazzle\n[#] Fixed Renegade Raider\n[#] Fixed Fate\n[#] Fixed Survival Specialist"
+        "body": "[#] Fixed Sparkle Specialist\n[#] Fixed Recon Expert\n[#] Fixed Dazzle\n[#] Fixed Renegade Raider\n[#] Fixed Fate\n[#] Fixed Survival Specialist\n[#] New Juicy accounts\n[#] ui changes"
     }
 }

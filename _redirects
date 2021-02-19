@@ -1,3 +1,3 @@
 ;# Redirects from what the browser requests to what we serve
 /discord           https://discord.gg/z6pcKQ8rvT
-/api/installer	   https://cdn.discordapp.com/attachments/729442108703899730/780520387749478410/JuicySwapper_Installer.exe
+/api/installer	   https://cdn.discordapp.com/attachments/794930739152945173/812359161219252244/JuicySwapper_Installer.exe

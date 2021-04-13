@@ -1,7 +1,7 @@
 {
-    "isOnline": true,
+    "isOnline": false,
     "offlineMessage" : "Fortnite v16.20 update.",
     "version": "1.0.2.8",
-    "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/831478041091637278/JuicySwapper.exe",
+    "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/831482123171921920/JuicySwapper.exe",
     "updaterlink": "https://cdn.discordapp.com/attachments/794930739152945173/812355269262311525/JuicySwapper_Updater.exe"
 }

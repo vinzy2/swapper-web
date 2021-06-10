@@ -60,9 +60,9 @@
         "InvalidGirlpak": "s",
         "InvalidBoypak": "s",
 
-        "InvalidBoyoffsets": 0,
-        "InvalidGirloffsets": 0,
-        "BodyNHeadoffsets": 0
+        "InvalidBoyoffsets": "5",
+        "InvalidGirloffsets": "6",
+        "BodyNHeadoffsets": "0"
 
     },
     "patchnotes": {

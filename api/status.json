@@ -9,6 +9,13 @@
         "version": "1.0.0.1",
         "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/848631794416222258/JuicySwapper.exe"
     },
+
+    "JuicySwapper_Launcher": {
+        "isOnline": true,
+        "version": "1.0.0.1",
+        "Link": "https://cdn.discordapp.com/attachments/794930739152945173/848631794416222258/JuicySwapper.exe",
+        "UpdaterLink": "https://cdn.discordapp.com/attachments/794930739152945173/848631794416222258/JuicySwapper.exe"
+    },
     
     "isOnline": false,
     "version": "1.0.3.6",

@@ -1,6 +1,4 @@
 ;# Redirects from what the browser requests to what we serve
 /discord           https://discord.gg/z6pcKQ8rvT
-/api/installer	   https://cdn.discordapp.com/attachments/794930739152945173/848890105417564190/JuicySwapper_Installer.exe
 /StaffApplication  https://docs.google.com/forms/d/e/1FAIpQLSd4HI8EoJtYQbRBuxdCbir4yAfl48EiKwxol01aM9GgktrLsA/viewform?fbzx=-1246385806765733693
 /AccountInfo       https://cdn.discordapp.com/attachments/794930739152945173/828308482423128064/JuicySwapper_Account.exe
-/api/Rar               https://cdn.discordapp.com/attachments/794930739152945173/823829599267454986/JuicySwapper.rar

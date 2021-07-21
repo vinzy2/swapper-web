@@ -17,7 +17,7 @@
         "UpdaterLink": "https://cdn.discordapp.com/attachments/794930739152945173/848631794416222258/JuicySwapper.exe"
     },
     
-    "isOnline": true,
+    "isOnline": false,
     "version": "1.0.3.8",
     "Encryption.dll": "https://cdn.discordapp.com/attachments/794930739152945173/854498173585063966/JuicySwapper_Encryption.dll",
     "swapperlink": "https://cdn.discordapp.com/attachments/794930739152945173/860683979455594497/JuicySwapper.exe",

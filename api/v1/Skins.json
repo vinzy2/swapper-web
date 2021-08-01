@@ -20,7 +20,7 @@
                     "swaps":[
                         {
                             "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-                            "replace": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Lun1",
+                            "replace": "/Game/Characters/",
                             "log": "Color"
                         },
                         {
@@ -40,7 +40,7 @@
                     "swaps":[
                         {
                             "search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-                            "replace": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasse1",
+                            "replace": "/Game/Accessories/",
                             "log": "Glasses"
                         },
                         {
@@ -53,5 +53,6 @@
             ]
         }
     
+                  
     ]
 }

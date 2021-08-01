@@ -3,46 +3,7 @@
         {
             "name": "Nitelite_to_Ghoul_Trooper",
             "icon": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/smallicon.png",
-            "swapicon": "",
-            "assets":[
-                {
-                    "parentasset": "bodypath",
-                    "swaps":[
-                        {
-                            "search": "",
-                            "replace": "",
-                            "log": "Body 1/2"
-                        },
-                        {
-                            "search": "",
-                            "replace": "",
-                            "log": "Body 2/2"
-                        }
-                    
-                    ]
-                },
-                {
-                    "parentasset": "headpath",
-                    "swaps":[
-                        {
-                            "search": "",
-                            "replace": "",
-                            "log": "Head 1/2"
-                        },
-                        {
-                            "search": "",
-                            "replace": "",
-                            "log": "Head 2/2"
-                        }
-                    
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Nitelite to Ghoul Trooper",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/smallicon.png",
-            "swapicon": "",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/smallicon.png",
             "assets":[
                 {
                     "parentasset": "bodypath",
@@ -78,5 +39,6 @@
                 }
             ]
         }
+    
     ]
 }

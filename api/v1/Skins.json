@@ -1,7 +1,7 @@
 {
-    "Skins":[
+    "skins":[
         {
-            "name": "Nitelite to Ghoul Trooper",
+            "name": "Nitelite_to_Ghoul_Trooper",
             "icon": "https://fortnite-api.com/images/cosmetics/br/CID_029_Athena_Commando_F_Halloween/smallicon.png",
             "swapicon": "",
             "assets":[

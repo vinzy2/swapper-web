@@ -209,33 +209,33 @@
 				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_138_Athena_Commando_F_Foray_YQPB0/smallicon.png",
 				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
 				"assets": [{
-						"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
-						"swaps": [{
-								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
-								"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Invalid Material"
-							},
-							{
-								"search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
-								"replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Body FX"
-							},
-							{
-								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray.F_MED_Foray",
-								"log": "Body Mesh"
-							},
-							{
-								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
-								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray_AnimBP.F_MED_Foray_AnimBP_C",
-								"log": "Body Mesh"
-							},
-							{
-								"search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
-								"replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Body FX"
-							}
-						]
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+					"swaps": [{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+							"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+							"log": "Invalid Material"
+						},
+						{
+							"search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+							"replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+							"log": "Body FX"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray.F_MED_Foray",
+							"log": "Body Mesh"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray_AnimBP.F_MED_Foray_AnimBP_C",
+							"log": "Body Mesh"
+						},
+						{
+							"search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+							"replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+							"log": "Body FX"
+						}
+					 ]
 					},
 					{
 						"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
@@ -273,7 +273,289 @@
 						]
 					}
 				]
-			}
+			},
+			{
+			"name": "Jules_to_Pepper_Thorne",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_152_Athena_Commando_F_Musician/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_770_Athena_Commando_F_MechanicalEngineer/smallicon.png",
+			"assets": [{
+				"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_MechanicalEngineer",
+				"swaps": [{
+						"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/F_MED_Mechanical_Engineer.F_MED_Mechanical_Engineer",
+						"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/F_MED_Musician.F_MED_Musician",
+						"log": "Body Mesh"
+					},
+					{
+						"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/F_MED_Mechanical_Engineer_AnimBP.F_MED_Mechanical_Engineer_AnimBP_C",
+						"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/F_MED_Musician_AnimBP.F_MED_Musician_AnimBP_C",
+						"log": "Body AnimBP"
+					},
+					{
+						"search": "AdditionalData",
+						"replace": "11111111111111",
+						"log": "Body CP"
+					},
+					{
+						"search": "BodyTypesPermitted",
+						"replace": "111111111111111111",
+						"log": "Body CP"
+					},
+					{
+						"search": "ByteProperty",
+						"replace": "111111111111",
+						"log": "Body CP"
+					},
+					{
+						"search": "CharacterPartType",
+						"replace": "11111111111111111",
+						"log": "Body CP"
+					},
+					{
+						"search": "$Default__CustomCharacterBodyPartData",
+						"replace": "1111111111111111111111111111111111111",
+						"log": "Body CP"
+					},
+					{
+						"search": "Default__CustomCharacterPart",
+						"replace": "1111111111111111111111111111",
+						"log": "Body CP"
+					}
+				]
+			},
+			{
+				"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_MechanicalEngineer",
+				"swaps": [{
+						"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/Female_Medium_Mechanical_Engineer_Head_01.Female_Medium_Mechanical_Engineer_Head_01",
+						"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Musician_Head/Meshes/Female_Medium_Musician_Head.Female_Medium_Musician_Head",
+						"log": "Head Mesh"
+					},
+					{
+						"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/F_MED_Mechanical_Engineer_Head_AnimBP_Child.F_MED_Mechanical_Engineer_Head_AnimBP_Child_C",
+						"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Musician_Head/Meshes/Female_Medium_Musician_Head_AnimBP.Female_Medium_Musician_Head_AnimBP_C",
+						"log": "Head AnimBP"
+					},
+					{
+						"search": "AdditionalData",
+						"replace": "11111111111111",
+						"log": "Head CP"
+					},
+					{
+						"search": "BodyTypesPermitted",
+						"replace": "111111111111111111",
+						"log": "Head CP"
+					},
+					{
+						"search": "ByteProperty",
+						"replace": "111111111111",
+						"log": "Head CP"
+					},
+					{
+						"search": "GenderPermitted",
+						"replace": "111111111111111",
+						"log": "Head CP"
+					},
+					{
+						"search": "Default__CustomCharacterHeadData",
+						"replace": "11111111111111111111111111111111",
+						"log": "Head CP"
+					},
+					{
+						"search": "Default__CustomCharacterPart",
+						"replace": "1111111111111111111111111111",
+						"log": "Head CP"
+					}
+				]
+			},
+			{
+				"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_MechanicalEngineer",
+				"swaps": [
+					{
+						"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/Parts/F_MED_Mechanical_Engineer_FaceAcc.F_MED_Mechanical_Engineer_FaceAcc",
+						"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/Parts/F_MED_Musician_FaceAcc.F_MED_Musician_FaceAcc",
+						"log": "FaceAcc Mesh"
+						
+					},
+					{
+						"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/Parts/F_MED_Mechanical_Engineer_FaceAcc_AnimBP.F_MED_Mechanical_Engineer_FaceAcc_AnimBP_C",
+						"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Musician/Meshes/Parts/F_MED_Musician_FaceAcc_AnimBP.F_MED_Musician_FaceAcc_AnimBP_C",
+						"log": "FaceAcc AnimBP"
+						
+					},
+					{
+						"search": "AdditionalData",
+						"replace": "11111111111111",
+						"log": "FaceAcc CP"
+					},
+					{
+						"search": "BoolProperty",
+						"replace": "111111111111",
+						"log": "FaceAcc CP"
+					},
+					{
+						"search": "ByteProperty",
+						"replace": "111111111111",
+						"log": "FaceAcc CP"
+					},
+					{
+						"search": "GenderPermitted",
+						"replace": "111111111111111",
+						"log": "FaceAcc CP"
+					},
+					{
+						"search": "Default__CustomCharacterFaceData",
+						"replace": "11111111111111111111111111111111",
+						"log": "FaceAcc CP"
+					},
+					{
+						"search": "Default__CustomCharacterPart",
+						"replace": "1111111111111111111111111111",
+						"log": "FaceAcc CP"
+					}
+					]
+				}
+			]
+		},
+		{
+			"name": "Jules_to_Summer_Skye",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_770_Athena_Commando_F_MechanicalEngineer/smallicon.png",
+			"assets": [{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_MechanicalEngineer",
+					"swaps": [{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/F_MED_Mechanical_Engineer.F_MED_Mechanical_Engineer",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/F_MED_Buff_Cat_Fan.F_MED_Buff_Cat_Fan",
+							"log": "Body Mesh"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/F_MED_Mechanical_Engineer_AnimBP.F_MED_Mechanical_Engineer_AnimBP_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/F_MED_Buff_Cat_Fan_AnimBP.F_MED_Buff_Cat_Fan_AnimBP_C",
+							"log": "Body AnimBP"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"log": "Body CP"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"log": "Body CP"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"log": "Body CP"
+						},
+						{
+							"search": "CharacterPartType",
+							"replace": "11111111111111111",
+							"log": "Body CP"
+						},
+						{
+							"search": "$Default__CustomCharacterBodyPartData",
+							"replace": "1111111111111111111111111111111111111",
+							"log": "Body CP"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"log": "Body CP"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_MechanicalEngineer",
+					"swaps": [{
+							"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/Female_Medium_Mechanical_Engineer_Head_01.Female_Medium_Mechanical_Engineer_Head_01",
+							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Photographer_Head/Mesh/Female_Medium_Photographer_Head.Female_Medium_Photographer_Head",
+							"log": "Head Mesh"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/F_MED_Mechanical_Engineer_Head_AnimBP_Child.F_MED_Mechanical_Engineer_Head_AnimBP_Child_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Photographer_Head/Mesh/Fortnite_Base_Head_Export_Skeleton_AnimBP_Child.Fortnite_Base_Head_Export_Skeleton_AnimBP_Child_C",
+							"log": "Head AnimBP"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"log": "Head CP"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"log": "Head CP"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"log": "Head CP"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"log": "Head CP"
+						},
+						{
+							"search": "Default__CustomCharacterHeadData",
+							"replace": "11111111111111111111111111111111",
+							"log": "Head CP"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"log": "Head CP"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_MechanicalEngineer",
+					"swaps": [
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/Parts/F_MED_Mechanical_Engineer_FaceAcc.F_MED_Mechanical_Engineer_FaceAcc",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/Parts/F_MED_Buff_Cat_Fan_FaceAcc.F_MED_Buff_Cat_Fan_FaceAcc",
+							"log": "FaceAcc Mesh"
+							
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/Parts/F_MED_Mechanical_Engineer_FaceAcc_AnimBP.F_MED_Mechanical_Engineer_FaceAcc_AnimBP_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buff_Cat_Fan/Meshes/Parts/F_MED_Buff_Cat_Fan_FaceAcc_AnimBP.F_MED_Buff_Cat_Fan_FaceAcc_AnimBP_C",
+							"log": "FaceAcc AnimBP"
+							
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"log": "FaceAcc CP"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"log": "FaceAcc CP"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"log": "FaceAcc CP"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"log": "FaceAcc CP"
+						},
+						{
+							"search": "Default__CustomCharacterFaceData",
+							"replace": "11111111111111111111111111111111",
+							"log": "FaceAcc CP"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"log": "FaceAcc CP"
+						}
+					]
+				}
+			]
+		}
 
 
 

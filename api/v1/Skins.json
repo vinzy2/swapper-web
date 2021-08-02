@@ -213,22 +213,27 @@
 						"swaps": [{
 								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
 								"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Body"
+								"log": "Invalid Material"
 							},
 							{
 								"search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
 								"replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Body"
+								"log": "Body FX"
 							},
 							{
 								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
-								"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Foray/Meshes/M_MED_Foray.M_MED_Foray",
-								"log": "Body"
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray.F_MED_Foray",
+								"log": "Body Mesh"
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/F_MED_Foray_AnimBP.F_MED_Foray_AnimBP_C",
+								"log": "Body Mesh"
 							},
 							{
 								"search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
 								"replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
-								"log": "Body"
+								"log": "Body FX"
 							}
 						]
 					},

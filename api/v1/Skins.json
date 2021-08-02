@@ -1,6 +1,6 @@
 {
 	"skins": [{
-			"name": "Nitelite_to_Ghoul_Trooper",
+			"name": "Nitelite_to_Pink_Ghoul_Trooper",
 			"icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
 			"assets": [{
@@ -16,6 +16,7 @@
 					"swaps": [{
 							"search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
 							"replace": "/Game/Characters/",
+							"Researcher": "string",
 							"log": "Color"
 						},
 						{
@@ -202,7 +203,103 @@
 						]
 					}
 				]
+			},
+			{
+				"name": "Blaze_to_Modena_Icon",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_138_Athena_Commando_F_Foray_YQPB0/smallicon.png",
+				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
+				"assets": [{
+						"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+								"replace": "/Game/Characters/11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+								"log": "Body"
+							},
+							{
+								"search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+								"replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+								"log": "Body"
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+								"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Foray/Meshes/M_MED_Foray.M_MED_Foray",
+								"log": "Body"
+							},
+							{
+								"search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+								"replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+								"log": "Body"
+							}
+						]
+					},
+					{
+						"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Materials/F_MED_Foray_Head.F_MED_Foray_Head",
+								"log": "Head"
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Materials/F_MED_Foray_Eyebrows.F_MED_Foray_Eyebrows",
+								"log": "Hair"
+							}
+						]
+					},
+					{
+						"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+								"replace": "/Game/Accessories/Hats/Materials/Female_Commando_07.Female_Commando_07",
+								"log": "Removed Material"
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday.F_MED_Renegade_Raider_Holiday",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/Parts/F_MED_Foray_FaceAcc.F_MED_Foray_FaceAcc",
+								"log": "Hat Mesh"
+                                
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday_AnimBP.F_MED_Renegade_Raider_Holiday_AnimBP_C",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Foray/Meshes/Parts/F_MED_Foray_FaceAcc_AnimBP.F_MED_Foray_FaceAcc_AnimBP_C",
+								"log": "Hat AnimBP"
+                                
+							},
+							{
+								"search": "Default__CustomCharacterPart",
+								"replace": "1111111111111111111111111111",
+								"log": "Hat Invalid"
+                                
+							},
+							{
+								"search": "Default__CustomCharacterPart",
+								"replace": "1111111111111111111111111111",
+								"log": "Hat Invalid"
+
+							},
+							{
+								"search": "CustomCharacterHatData",
+								"replace": "1111111111111111111111",
+								"log": "Hat Invalid"
+
+							},
+							{
+								"search": "Default__CustomCharacterHatData",
+								"replace": "1111111111111111111111111111111",
+								"log": "Hat Invalid"
+
+							},
+							{
+								"search": "ObjectProperty",
+								"replace": "11111111111111",
+								"log": "Hat Invalid"
+
+							}
+						]
+					}
+				]
 			}
+
 
 
 

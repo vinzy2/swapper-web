@@ -78,7 +78,11 @@
 			]
 			},
 			{
-				"name": "Blaze_to_Renegade_Raider",
+				"name": "Renegade_Options",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_770_Athena_Commando_F_MechanicalEngineer/smallicon.png",
+				"Options": [
+					{
+						"name": "Blaze_to_Renegade_Raider",
 				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
 				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
 				"assets": [{
@@ -154,6 +158,87 @@
 						]
 					}
 				]
+					},
+					{
+						"name": "Redline_to_Renegade_Raider",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
+				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
+				"assets": [{
+						"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
+								"Researcher": "string",
+								"log": "Body"
+							},
+							{
+								"search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
+								"replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+								"Researcher": "string",
+								"log": "Body"
+							},
+							{
+								"search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
+								"replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+								"Researcher": "string",
+								"log": "Body"
+							}
+						]
+					},
+					{
+						"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Head.MI_F_MED_Renegade_Raider_Fire_Head",
+								"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02",
+								"Researcher": "string",
+								"log": "Head"
+							},
+							{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Hair.MI_F_MED_Renegade_Raider_Fire_Hair",
+								"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01",
+								"Researcher": "string",
+								"log": "Hair"
+							}
+						]
+					},
+					{
+						"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_RenegadeRaiderFire",
+						"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_FaceAcc.MI_F_MED_Renegade_Raider_Fire_FaceAcc",
+								"replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01",
+								"Researcher": "string",
+								"log": "Hat Material"
+							},
+							{
+								"search": "Default__CustomCharacterPart",
+								"replace": "1111111111111111111111111111",
+								"Researcher": "string"
+
+							},
+							{
+								"search": "CustomCharacterHatData",
+								"replace": "1111111111111111111111",
+								"Researcher": "string"
+
+							},
+							{
+								"search": "Default__CustomCharacterHatData",
+								"replace": "1111111111111111111111111111111",
+								"Researcher": "string"
+
+							},
+							{
+								"search": "ObjectProperty",
+								"replace": "11111111111111",
+								"Researcher": "string"
+
+							}
+						]
+					}
+				]
+					}
+				]
+	
 			},
 			{
 				"name": "Blaze_to_Renegade_Raider_Checkered",
@@ -811,7 +896,7 @@
 		},
 		{
 			"name": "Ruby_Shadows_to_Ariana_Grande",
-			"icon": "https://cdn.discordapp.com/attachments/867363541363458078/872086176780157018/ariana_grande.png",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_158_Athena_Commando_F_Buffet_YC20H/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/smallicon.png",
 			"assets": [
 				{
@@ -838,7 +923,7 @@
 					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
 					"swaps": [
 						{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Head.F_MED_StreetFashionEclipse_Head",
+							"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head"
 						},
 						{

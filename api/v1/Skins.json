@@ -79,12 +79,11 @@
 			},
 			{
 				"name": "Renegade_Options",
-				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_770_Athena_Commando_F_MechanicalEngineer/smallicon.png",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
 				"Options": [
 					{
 						"name": "Blaze_to_Renegade_Raider",
-				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/smallicon.png",
-				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
 				"assets": [{
 						"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
 						"swaps": [{
@@ -162,7 +161,6 @@
 					{
 						"name": "Redline_to_Renegade_Raider",
 				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
-				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_784_Athena_Commando_F_RenegadeRaiderFire/smallicon.png",
 				"assets": [{
 						"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_RenegadeRaiderFire",
 						"swaps": [{

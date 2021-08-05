@@ -1,78 +1,48 @@
 {
     "items": [
         {
-            "name": "Nitelite_to_Pink_Ghoul_Trooper",
-            "icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
+            "name": "Snowshaker_to_Bhangra_Boogie",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Bollywood/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SnowGlobe/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SnowGlobe",
                     "swaps": [
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMM_M.Emote_Snowglobe_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/bhangra/emote_bhangra_CMM_M.emote_bhangra_CMM_M",
                             "Researcher": "string",
-                            "log": "Body"
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMF_M.Emote_Snowglobe_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/bhangra/emote_bhangra_CMF_M.emote_bhangra_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "name": "Snowshaker_to_Bhangra_Boogie",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_LineDance/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SnowGlobe/smallicon.png",
+            "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SnowGlobe",
                     "swaps": [
                         {
-                            "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-                            "replace": "/Game/Characters/",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMM_M.Emote_Snowglobe_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/LineDance/Emote_LineDance_CMM_M.Emote_LineDance_CMM_M",
                             "Researcher": "string",
-                            "log": "Color"
+                            "log": "Dance 1/2"
                         },
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMF_M.Emote_Snowglobe_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/LineDance/Emote_LineDance_CMF_M.Emote_LineDance_CMF_M",
                             "Researcher": "string",
-                            "log": "Hair"
-                        },
-                        {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head",
-                            "Researcher": "string",
-                            "log": "Head"
-                        }
-                    ]
-                },
-                {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_AuroraGlow",
-                    "swaps": [
-                        {
-                            "search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-                            "replace": "/Game/Accessories/",
-                            "Researcher": "string",
-                            "log": "Glasses Mat"
-                        },
-                        {
-                            "search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
-                            "replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterPart",
-                            "replace": "1111111111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "CustomCharacterHatData",
-                            "replace": "1111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterHatData",
-                            "replace": "1111111111111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ObjectProperty",
-                            "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Shades"
+                            "log": "Dance 2/2"
                         }
                     ]
                 }

@@ -169,30 +169,6 @@
             ]
         },
         {
-            "name": "Deep_End_to_Floss",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Floss/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SwimDance/smallicon.png",
-            "assets": [
-                {
-                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SwimDance",
-                    "swaps": [
-                        {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMF_M.Emote_Swim_Dance_CMF_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
-                            "Researcher": "string",
-                            "log": "Dance 1/2"
-                        },
-                        {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMM_M.Emote_Swim_Dance_CMM_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
-                            "Researcher": "string",
-                            "log": "Dance 2/2"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Take_The_Elf_to_Fresh",
             "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Fresh/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",

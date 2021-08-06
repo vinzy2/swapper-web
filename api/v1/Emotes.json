@@ -47,6 +47,174 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Take_The_Elf__to_Cheer_Up",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Cheerleading/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMM_M.Emote_Take_The_Elf_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Cheerleader/Emote_Cheerleader_CMM_M.Emote_Cheerleader_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMF_M.Emote_Take_The_Elf_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Cheerleader/Emote_Cheerleader_CMF_M.Emote_Cheerleader_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Swipe_It_to_Daydream",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_HiLowWave/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SwipeIt/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SwipeIt",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dance_SwipeIt/Emote_Dance_SwipeIt_CMM_M.Emote_Dance_SwipeIt_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/HiLoWave/Emote_HiLowWave_CMM_M.Emote_HiLowWave_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dance_SwipeIt/Emote_Dance_SwipeIt_CMF_M.Emote_Dance_SwipeIt_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/HiLoWave/Emote_HiLowWave_CMF_M.Emote_HiLowWave_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Side_Hustle_to_Fishin",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_JellyFrog/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_StepBreakdance/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_StepBreakdance",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/StepBreakdance/Emote_StepBreakdance_CMF_M.Emote_StepBreakdance_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JellyFrog/Emote_JellyFrog_CMF_M.Emote_JellyFrog_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/StepBreakdance/Emote_StepBreakdance_CMM_M.Emote_StepBreakdance_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JellyFrog/Emote_JellyFrog_CMM_M.Emote_JellyFrog_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Groove_Jam_to_Flapper",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Flapper/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_GrooveJam/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_GrooveJam",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/GrooveJam/Emote_GrooveJam_CMM_M.Emote_GrooveJam_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_Charleston_M.Emote_Charleston_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/GrooveJam/Emote_GrooveJam_CMF_M.Emote_GrooveJam_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_Charleston_M.Emote_Charleston_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Groove_Jam_to_Floss",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Floss/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SwimDance/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SwimDance",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMF_M.Emote_Swim_Dance_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMM_M.Emote_Swim_Dance_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Deep_End_to_Floss",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Floss/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SwimDance/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SwimDance",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMF_M.Emote_Swim_Dance_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/SwimDance/Emote_Swim_Dance_CMM_M.Emote_Swim_Dance_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Emote_FlossDance_M.Emote_FlossDance_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Take_The_Elf_to_Fresh",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Fresh/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMF_M.Emote_Take_The_Elf_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_CMF_M.Emote_Fresh_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMM_M.Emote_Take_The_Elf_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_M.Emote_Fresh_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

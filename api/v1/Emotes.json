@@ -169,22 +169,70 @@
             ]
         },
         {
-            "name": "Take_The_Elf_to_Fresh",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Fresh/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "name": "Calculated_to_GlowSticks",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_GlowstickDance/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_Calculated/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Calculated",
                     "swaps": [
                         {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMF_M.Emote_Take_The_Elf_CMF_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_CMF_M.Emote_Fresh_CMF_M",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Calculated/Emote_Calculated_CMM_Montage.Emote_Calculated_CMM_Montage",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/GlowStickDance/Emote_GlowStickDance_CMM_M.Emote_GlowStickDance_CMM_M",
                             "Researcher": "string",
                             "log": "Dance 1/2"
                         },
                         {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMM_M.Emote_Take_The_Elf_CMM_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Fresh/Emote_Fresh_M.Emote_Fresh_M",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Calculated/Emote_Calculated_CMF_Montage.Emote_Calculated_CMF_Montage",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/GlowStickDance/Emote_GlowStickDance_CMF_M.Emote_GlowStickDance_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ground_Pound_to_Llamacadabra",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Wizard/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_AcrobaticSuperhero/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_AcrobaticSuperhero",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Acrobatic_Superhero/Emote_AcrobaticSuperhero_CMM_M.Emote_AcrobaticSuperhero_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Wizard/Emote_Wizard_CMM_M.Emote_Wizard_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Acrobatic_Superhero/Emote_AcrobaticSuperhero_CMF_M.Emote_AcrobaticSuperhero_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Wizard/Emote_Wizard_CMF_M.Emote_Wizard_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Blowing_Bubbles_to_Never_Gonna",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_NeverGonna/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_BlowingBubbles/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_AcrobaticSuperhero",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMM_M.Emote_BlowingBubble_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/NeverGonna/Emote_NeverGonna_CMM_M.Emote_NeverGonna_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMF_M.Emote_BlowingBubble_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/NeverGonna/Emote_NeverGonna_CMF_M.Emote_NeverGonna_CMF_M",
                             "Researcher": "string",
                             "log": "Dance 2/2"
                         }

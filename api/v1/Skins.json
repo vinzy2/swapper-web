@@ -984,12 +984,6 @@
                     "parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
                     "swaps": [
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
-                            "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head",
-                            "Researcher": "string",
-                            "log": "Head"
-                        },
-                        {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
                             "Researcher": "string"

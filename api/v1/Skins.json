@@ -963,17 +963,20 @@
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
                             "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/F_MED_Buffet_AnimBP.F_MED_Buffet_AnimBP_C",
+                            "Researcher": "string",
                             "log": "Body AnimBP"
                         },
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red.F_MED_Street_Fashion_Red",
                             "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/F_MED_Buffet.F_MED_Buffet",
+                            "Researcher": "string",
                             "log": "Body Mesh"
                         },
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
                             "replace": "/Game/Juicy/Juicy.Juicy",
-                            "log": "Body CP"
+                            "Researcher": "string",
+                            "log": "Body"
                         }
                     ]
                 },
@@ -983,31 +986,38 @@
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
                             "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head",
+                            "Researcher": "string",
                             "log": "Head"
                         },
                         {
                             "search": "AdditionalData",
-                            "replace": "11111111111111"
+                            "replace": "11111111111111",
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
-                            "replace": "111111111111111111"
+                            "replace": "111111111111111111",
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
-                            "replace": "111111111111"
+                            "replace": "111111111111",
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
-                            "replace": "111111111111111"
+                            "replace": "111111111111111",
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterHeadData",
-                            "replace": "11111111111111111111111111111111"
+                            "replace": "11111111111111111111111111111111",
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
-                            "replace": "1111111111111111111111111111"
+                            "replace": "1111111111111111111111111111",
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -1017,16 +1027,19 @@
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
                             "replace": "/Game/Juicy/Juicy.Juicy",
+                            "Researcher": "string",
                             "log": "Hat Material"
                         },
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
                             "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/Parts/F_MED_Buffet_FaceAcc_AnimBP.F_MED_Buffet_FaceAcc_AnimBP_C",
+                            "Researcher": "string",
                             "log": "Hat AnimBP"
                         },
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
                             "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/Parts/F_MED_Buffet_FaceAcc.F_MED_Buffet_FaceAcc",
+                            "Researcher": "string",
                             "log": "Hat Mesh"
                         }
                     ]

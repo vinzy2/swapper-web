@@ -15,19 +15,19 @@
                                     "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
                                     "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 1/3"
                                 },
                                 {
                                     "search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
                                     "replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 2/3"
                                 },
                                 {
                                     "search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
                                     "replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 3/3"
                                 }
                             ]
                         },
@@ -186,19 +186,19 @@
                                     "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Fire/Materials/MI_F_MED_Renegade_Raider_Fire_Body.MI_F_MED_Renegade_Raider_Fire_Body",
                                     "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_21/Materials/F_MED_Commando_Body_TV21.F_MED_Commando_Body_TV21",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 1/3"
                                 },
                                 {
                                     "search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/RenegadeRaider_Fire/NS_RenegadeRaider_Fire.NS_RenegadeRaider_Fire",
                                     "replace": "/Game/Effects/Fort_Effects/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 2/3"
                                 },
                                 {
                                     "search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_RenegadeRaider_Fire.B_Athena_PartModifier_RenegadeRaider_Fire_C",
                                     "replace": "/Game/Athena/1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
                                     "Researcher": "string",
-                                    "log": "Body"
+                                    "log": "Body 3/3"
                                 }
                             ]
                         },
@@ -578,38 +578,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
                             "replace": "111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterHeadData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -631,38 +625,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BoolProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterFaceData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         }
                     ]
                 }
@@ -691,38 +679,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
                             "replace": "111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "CharacterPartType",
                             "replace": "11111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "$Default__CustomCharacterBodyPartData",
                             "replace": "1111111111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -744,38 +726,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
                             "replace": "111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterHeadData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -797,38 +773,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BoolProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterFaceData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         }
                     ]
                 }
@@ -857,38 +827,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
                             "replace": "111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "CharacterPartType",
                             "replace": "11111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "$Default__CustomCharacterBodyPartData",
                             "replace": "1111111111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Body CP"
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -910,38 +874,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BodyTypesPermitted",
                             "replace": "111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterHeadData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "Head CP"
+                            "Researcher": "string"
                         }
                     ]
                 },
@@ -963,38 +921,32 @@
                         {
                             "search": "AdditionalData",
                             "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "BoolProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "ByteProperty",
                             "replace": "111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "GenderPermitted",
                             "replace": "111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterFaceData",
                             "replace": "11111111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
                             "replace": "1111111111111111111111111111",
-                            "Researcher": "string",
-                            "log": "FaceAcc CP"
+                            "Researcher": "string"
                         }
                     ]
                 }
@@ -1030,37 +982,32 @@
                     "swaps": [
                         {
                             "search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Angel_Head_01/Meshes/F_MED_Angel_Head_01.F_MED_Angel_Head_01",
-                            "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head"
+                            "replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head",
+                            "log": "Head"
                         },
                         {
                             "search": "AdditionalData",
-                            "replace": "11111111111111",
-                            "log": "Head CP"
+                            "replace": "11111111111111"
                         },
                         {
                             "search": "BodyTypesPermitted",
-                            "replace": "111111111111111111",
-                            "log": "Head CP"
+                            "replace": "111111111111111111"
                         },
                         {
                             "search": "ByteProperty",
-                            "replace": "111111111111",
-                            "log": "Head CP"
+                            "replace": "111111111111"
                         },
                         {
                             "search": "GenderPermitted",
-                            "replace": "111111111111111",
-                            "log": "Head CP"
+                            "replace": "111111111111111"
                         },
                         {
                             "search": "Default__CustomCharacterHeadData",
-                            "replace": "11111111111111111111111111111111",
-                            "log": "Head CP"
+                            "replace": "11111111111111111111111111111111"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
-                            "replace": "1111111111111111111111111111",
-                            "log": "Head CP"
+                            "replace": "1111111111111111111111111111"
                         }
                     ]
                 },

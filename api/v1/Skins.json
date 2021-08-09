@@ -1039,6 +1039,94 @@
                     ]
                 }
             ]
+        },
+		{
+            "name": "Ruby_Shadows_to_Ariana_Grande",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_158_Athena_Commando_F_Buffet_YC20H/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_a_007_athena_commando_f_streetfashioneclipse/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetFashionEclipse",
+                    "swaps": [
+                        {
+                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/F_MED_Street_Fashion_Red_AnimBP.F_MED_Street_Fashion_Red_AnimBP_C",
+                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/F_MED_Buffet_AnimBP.F_MED_Buffet_AnimBP_C",
+                            "Researcher": "string",
+                            "log": "Body AnimBP"
+                        },
+                        {
+							"search":"/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+							"replace":"/Game/Environments/Props/Boxes/Meshes/TreasureChestLootTier1.TreasureChestLootTier1",
+                            "Researcher": "string",
+                            "log": "Body Mesh"
+                        },
+                        {
+                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Body.F_MED_StreetFashionEclipse_Body",
+                            "replace": "/Game/Juicy/Juicy.Juicy",
+                            "Researcher": "string",
+                            "log": "Body"
+                        }
+                    ]
+                },
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetFashionEclipse",
+                    "swaps": [
+                        {
+                            "search": "AdditionalData",
+                            "replace": "11111111111111",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "BodyTypesPermitted",
+                            "replace": "111111111111111111",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "111111111111",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "111111111111111",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterHeadData",
+                            "replace": "11111111111111111111111111111111",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "1111111111111111111111111111",
+                            "Researcher": "string"
+                        }
+                    ]
+                },
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_FaceAcc_StreetFashionEclipse",
+                    "swaps": [
+                        {
+                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Skins/Eclipse/Materials/F_MED_StreetFashionEclipse_Hair.F_MED_StreetFashionEclipse_Hair",
+                            "replace": "/Game/Juicy/Juicy.Juicy",
+                            "Researcher": "string",
+                            "log": "Hat Material"
+                        },
+                        {
+                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc_AnimBp.F_MED_Street_Fashion_Red_FaceAcc_AnimBp_C",
+                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/Parts/F_MED_Buffet_FaceAcc_AnimBP.F_MED_Buffet_FaceAcc_AnimBP_C",
+                            "Researcher": "string",
+                            "log": "Hat AnimBP"
+                        },
+                        {
+                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Street_Fashion_Red/Meshes/Parts/F_MED_Street_Fashion_Red_FaceAcc.F_MED_Street_Fashion_Red_FaceAcc",
+                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/Parts/F_MED_Buffet_FaceAcc.F_MED_Buffet_FaceAcc",
+                            "Researcher": "string",
+                            "log": "Hat Mesh"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -6,76 +6,43 @@
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow",
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RavenWinterMale",
                     "swaps": [
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
+                            "search": "/Game/Accessories/FORT_Backpacks/Mesh/SK_Backpack_RavenQuill.SK_Backpack_RavenQuill",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/Male_Commando_02.Male_Commando_02",
                             "Researcher": "string",
-                            "log": "Body"
-                        }
-                    ]
-                },
-                {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
-                    "swaps": [
-                        {
-                            "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-                            "replace": "/Game/Characters/",
-                            "Researcher": "string",
-                            "log": "Color"
+                            "log": "Mesh"
                         },
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair",
+                            "search": "/Game/Accessories/FORT_Backpacks/M_Commandor_Raven_Winter_Backpack/Materials/MI_Backpack_Raven_Winter.MI_Backpack_Raven_Winter",
+                            "replace": "Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor",
                             "Researcher": "string",
-                            "log": "Hair"
+                            "log": "FX"
                         },
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head",
-                            "Researcher": "string",
-                            "log": "Head"
-                        }
-                    ]
-                },
-                {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_AuroraGlow",
-                    "swaps": [
-                        {
-                            "search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-                            "replace": "/Game/Accessories/",
-                            "Researcher": "string",
-                            "log": "Glasses Mat"
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
                         },
                         {
-                            "search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
-                            "replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
+                            "search": "ByteProperty",
+                            "replace": "",
                             "Researcher": "string"
                         },
                         {
                             "search": "Default__CustomCharacterPart",
-                            "replace": "1111111111111111111111111111",
+                            "replace": "",
                             "Researcher": "string"
                         },
                         {
-                            "search": "CustomCharacterHatData",
-                            "replace": "1111111111111111111111",
+                            "search": "GenderPermitted",
+                            "replace": "",
                             "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterHatData",
-                            "replace": "1111111111111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ObjectProperty",
-                            "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Shades"
                         }
                     ]
                 }
+                
             ]
         }
     ]

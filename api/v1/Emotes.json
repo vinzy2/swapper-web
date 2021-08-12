@@ -361,22 +361,70 @@
             ]
         },
         {
-            "name": "Cluck_Strut_to_Pony_Up",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_RideThePonyTwo/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_ChickenMoves/smallicon.png",
+            "name": "Take_The_Elf_to_Pop_Lock",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_PopLock/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ChickenMoves",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
                     "swaps": [
                         {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Chicken_Moves/Emote_Chicken_Moves_CMM_M.Emote_Chicken_Moves_CMM_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/RideThePony_v2/RideThePony_v2_CMF_M.RideThePony_v2_CMF_M",
+                            "search": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,84,97,107,101,95,84,104,101,95,69,108,102,47,69,109,111,116,101,95,84,97,107,101,95,84,104,101,95,69,108,102,95,67,77,70,95,77,46,69,109,111,116,101,95,84,97,107,101,95,84,104,101,95,69,108,102,95,67,77,70,95,77",
+                            "replace": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,80,111,112,95,76,111,99,107,47,69,109,111,116,101,95,80,111,112,76,111,99,107,95,67,77,70,95,77,46,69,109,111,116,101,95,80,111,112,76,111,99,107,95,67,77,70,95,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                            "Researcher": "byte",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,66,111,111,103,105,101,95,68,111,119,110,47,69,109,111,116,101,95,66,111,111,103,105,101,95,68,111,119,110,95,67,77,77,46,69,109,111,116,101,95,66,111,111,103,105,101,95,68,111,119,110,95,67,77,77",
+                            "replace": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,72,105,76,111,87,97,118,101,47,69,109,111,116,101,95,72,105,76,111,119,87,97,118,101,95,67,77,77,95,77,46,69,109,111,116,101,95,72,105,76,111,119,87,97,118,101,95,67,77,77,95,77,0,0,0,0,0,0,0,0,0,0",
+                            "Researcher": "byte",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Take_The_Elf_to_Scenario",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "swaps": [
+                        {
+                            "search": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,84,97,107,101,95,84,104,101,95,69,108,102,47,69,109,111,116,101,95,84,97,107,101,95,84,104,101,95,69,108,102,95,67,77,70,95,77,46,69,109,111,116,101,95,84,97,107,101,95,84,104,101,95,69,108,102,95,67,77,70,95,77",
+                            "replace": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,75,80,111,112,95,68,97,110,99,101,48,51,47,69,109,111,116,101,95,75,80,79,80,95,68,97,110,99,101,48,51,95,77,46,69,109,111,116,101,95,75,80,79,80,95,68,97,110,99,101,48,51,95,77,0,0,0,0,0,0,0,0",
+                            "Researcher": "byte",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,66,111,111,103,105,101,95,68,111,119,110,47,69,109,111,116,101,95,66,111,111,103,105,101,95,68,111,119,110,95,67,77,77,46,69,109,111,116,101,95,66,111,111,103,105,101,95,68,111,119,110,95,67,77,77",
+                            "replace": "47,71,97,109,101,47,65,110,105,109,97,116,105,111,110,47,71,97,109,101,47,77,97,105,110,80,108,97,121,101,114,47,69,109,111,116,101,115,47,75,80,111,112,95,68,97,110,99,101,48,51,47,69,109,111,116,101,95,75,80,79,80,95,68,97,110,99,101,48,51,95,77,46,69,109,111,116,101,95,75,80,79,80,95,68,97,110,99,101,48,51,95,77,0,0,0,0,0,0,0,0",
+                            "Researcher": "byte",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Snowshaker_to_The_Renegade",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EEID_JustHome/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SnowGlobe/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SnowGlobe",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMM_M.Emote_Snowglobe_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JustHome/Emote_JustHome_CMM_M.Emote_JustHome_CMM_M",
                             "Researcher": "string",
                             "log": "Dance 1/2"
                         },
                         {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Chicken_Moves/Emote_Chicken_Moves_CMF_M.Emote_Chicken_Moves_CMF_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/RideThePony_v2/RideThePony_v2_CMM_M.RideThePony_v2_CMM_M",
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Snowglobe/Emote_Snowglobe_CMF_M.Emote_Snowglobe_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JustHome/Emote_JustHome_CMF_M.Emote_JustHome_CMF_M",
                             "Researcher": "string",
                             "log": "Dance 2/2"
                         }

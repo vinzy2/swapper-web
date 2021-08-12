@@ -410,7 +410,7 @@
         },
         {
             "name": "Snowshaker_to_The_Renegade",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EEID_JustHome/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_JustHome/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SnowGlobe/smallicon.png",
             "assets": [
                 {
@@ -427,6 +427,48 @@
                             "replace": "/Game/Animation/Game/MainPlayer/Emotes/JustHome/Emote_JustHome_CMF_M.Emote_JustHome_CMF_M",
                             "Researcher": "string",
                             "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Take_The_Elf__to_The_Renegade",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Cashier_HGQ8X/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMM_M.Emote_Dumbbell_Lift_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Cashiers/Emote_Cashiers_CMM_M.Emote_Cashiers_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMF_M.Emote_Dumbbell_Lift_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Cashiers/Emote_Cashiers_CMF_M.Emote_Cashiers_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        },
+                        {
+                            "search": "Take The Elf",
+                            "replace": "Good Guy",
+                            "Researcher": "string",
+                            "log": "Name"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-TakeTheElf-L.T-Icon-Emotes-E-TakeTheElf-L",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
+                            "Researcher": "string",
+                            "log": "Icon Large"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-TakeTheElf.T-Icon-Emotes-E-TakeTheElf",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier.T-Icon-Emotes-E-Cashier",
+                            "Researcher": "string",
+                            "log": "Icon Small"
                         }
                     ]
                 }

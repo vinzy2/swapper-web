@@ -1145,9 +1145,9 @@
 		},
 		{
 			"name": "Rox_to_AutumnQueen",
-			"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_617_Athena_Commando_F_ForestQueen/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
+			"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
 			"assets": [{
 					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT1",
 					"swaps": [{
@@ -1327,16 +1327,34 @@
 							"Researcher": "string"
 						},
 						{
+							"search": "ArrayProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
 							"search": "BodyTypesPermitted",
 							"replace": "111111111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "ByteProperty",
+
+							"search": "BoolProperty",
 							"replace": "111111111111",
 							"Researcher": "string"
 						},
 						{
+
+							"search": "CharacterPartType",
+							"replace": "11111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "$Default__CustomCharacterBodyPartData",
+							"replace": "1111111111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+
 							"search": "GenderPermitted",
 							"replace": "111111111111111",
 							"Researcher": "string"
@@ -1373,13 +1391,19 @@
 							"Researcher": "string"
 						},
 						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+
 							"search": "BodyTypesPermitted",
 							"replace": "111111111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
+							"search": "CustomCharacterPart",
+							"replace": "1111111111111111111",
 							"Researcher": "string"
 						},
 						{
@@ -1395,6 +1419,22 @@
 						{
 							"search": "Default__CustomCharacterPart",
 							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ObjectProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "SoftObjectProperty",
+							"replace": "111111111111111111",
 							"Researcher": "string"
 						}
 					]

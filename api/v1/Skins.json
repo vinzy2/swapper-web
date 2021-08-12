@@ -998,7 +998,7 @@
 			{
 				"name": "Rox_to_AutumnQueen",
 				"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
-				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_158_Athena_Commando_F_Buffet_YC20H/smallicon.png",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_617_Athena_Commando_F_ForestQueen/smallicon.png",
 				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
 				"assets": [
 				{
@@ -1041,6 +1041,58 @@
 						{
 							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Head.MI_F_Strawberry_Pilot_Head",
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Forest_Queen/Materials/MI_F_MED_Forest_Queen_Head.MI_F_MED_Forest_Queen_Head",
+							"Researcher": "string",
+							"log": "Head"
+						}
+					]
+				}]
+			},
+			{
+				"name": "Aura_To_Beach_Bomber",
+
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_460_Athena_Commando_F_BriteBomberSummer/smallicon.png",
+				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/smallicon.png",
+				"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_TreasureHunterFashion",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/F_MED_Treasure_Hunter_Fashion.F_MED_Treasure_Hunter_Fashion",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer.F_MED_Brite_Bomber_Summer",
+							"Researcher": "string",
+							"log": "Body 1/2"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/F_MED_Treasure_Hunter_Fashion_AnimBp.F_MED_Treasure_Hunter_Fashion_AnimBp_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer_AnimBP.F_MED_Brite_Bomber_Summer_AnimBP_C",
+							"Researcher": "string",
+							"log": "Body 2/2"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_TreasureHunterFashion",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/Parts/F_MED_Treasure_Hunter_Fashion_FaceAcc.F_MED_Treasure_Hunter_Fashion_FaceAcc",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head.F_MED_Brite_Bomber_Summer_Head",
+							"Researcher": "string",
+							"log": "Hair 1/2"
+						},
+						{
+							"search": "Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/Parts/F_MED_TreasureHunterFash_FaceAcc_AnimBp.F_MED_TreasureHunterFash_FaceAcc_AnimBp_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head_AnimBP.F_MED_Brite_Bomber_Summer_Head_AnimBP_C",
+							"Researcher": "string",
+							"log": "Hair 2/2"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TreasureHunterFashion",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/TreasureHunterF/Materials/F_MED_THFashion_Head.F_MED_THFashion_Head",
+							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Luchador/F_MED_Commando_Head_01_Luchador.F_MED_Commando_Head_01_Luchador",
 							"Researcher": "string",
 							"log": "Head"
 						}

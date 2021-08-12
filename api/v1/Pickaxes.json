@@ -2,8 +2,8 @@
     "items": [
         {
             "name": "Take_The_Elf_to_Scenario",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_142_TeriyakiFish/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_334_SweaterWeatherMale/smallicon.png",
             "assets": [
                 {
                     "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_SweaterWeatherMale",

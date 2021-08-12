@@ -63,6 +63,45 @@
                 }
                 
             ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Six_String",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_034_RockerPunk/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RockerPunk",
+                    "swaps": [
+                        {
+                            "search": "Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "Accessories/FORT_Backpacks/Mesh/Female_Commando_Guitar.Female_Commando_Guitar",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+                
+            ]
         }
     ]
 }

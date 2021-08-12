@@ -1327,28 +1327,23 @@
 							"Researcher": "string"
 						},
 						{
-							"search": "ArrayProperty",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
 							"search": "BodyTypesPermitted",
 							"replace": "111111111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "BoolProperty",
+							"search": "ByteProperty",
 							"replace": "111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
+							"search": "Default__CustomCharacterHeadData",
+							"replace": "11111111111111111111111111111111",
 							"Researcher": "string"
 						},
 						{
@@ -1378,28 +1373,13 @@
 							"Researcher": "string"
 						},
 						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"Researcher": "string"
+						},
+						{
 							"search": "ByteProperty",
 							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CustomCharacterPart",
-							"replace": "1111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterFaceData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
 							"Researcher": "string"
 						},
 						{
@@ -1408,13 +1388,13 @@
 							"Researcher": "string"
 						},
 						{
-							"search": "ObjectProperty",
-							"replace": "11111111111111",
+							"search": "Default__CustomCharacterHeadData",
+							"replace": "11111111111111111111111111111111",
 							"Researcher": "string"
 						},
 						{
-							"search": "SoftObjectProperty",
-							"replace": "111111111111111111",
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
 							"Researcher": "string"
 						}
 					]

@@ -240,12 +240,6 @@
                             "log": "Mesh"
                         },
                         {
-                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_SummerHeroes_Unicorn/Meshes/Backpack_Summer_Heroes_Unicorn_Export_Skeleton_AnimBP.Backpack_Summer_Heroes_Unicorn_Export_Skeleton_AnimBP_C",
-                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_F_BackPack_BR039_BackPack_BR039_Skeleton_AnimBP.SK_F_BackPack_BR039_BackPack_BR039_Skeleton_AnimBP_C",
-                            "Researcher": "string",
-                            "log": "Mesh BP"
-                        },
-                        {
                             "search": "AdditionalData",
                             "replace": "",
                             "Researcher": "string"
@@ -262,6 +256,11 @@
                         },
                         {
                             "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
                             "replace": "",
                             "Researcher": "string"
                         }

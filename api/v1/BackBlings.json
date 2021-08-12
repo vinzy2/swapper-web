@@ -31,7 +31,7 @@
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_071_VikingFemale/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RavenWinterMale",
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_VikingFemale",
                     "swaps": [
                         {
                             "search": "FORT_Backpacks/M_MED_Viking_Backpack/Meshes/SK_Backpack_Male_Viking.SK_Backpack_Male_Viking",

@@ -1300,183 +1300,201 @@
 					]
 				}
 			]
-
 		},
 		{
-			"name": "Aura_To_Beach_Bomber",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_460_Athena_Commando_F_BriteBomberSummer/smallicon.png",
-			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/smallicon.png",
-			"assets": [{
-					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_TreasureHunterFashion",
-					"swaps": [{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/F_MED_Treasure_Hunter_Fashion.F_MED_Treasure_Hunter_Fashion",
-							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer.F_MED_Brite_Bomber_Summer",
-							"Researcher": "string",
-							"log": "Body 1/2"
+		"name": "Aerial_Assault_Trooper_Options",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_017_Athena_Commando_M/smallicon.png",
+			"Options": [{
+					"name": "Blaze_to_Renegade_Raider",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_294_Athena_Commando_F_RedKnightWinter/smallicon.png",
+					"assets": [{
+							"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_RedKnightWinter",
+							"swaps": [{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Bronto/Meshes/M_MED_Bronto.M_MED_Bronto",
+									"Researcher": "string",
+									"log": "Body 1/3"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Bronto/Meshes/M_MED_Bronto_Skeleton_AnimBlueprint.M_MED_Bronto_Skeleton_AnimBlueprint_C",
+									"Researcher": "string",
+									"log": "Body 2/3"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_32_RedKnight_Winter/Materials/M_F_MED_Commando_RedKnight_Winter.M_F_MED_Commando_RedKnight_Winter",
+									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_04/Materials/M_Med_Soldier_04_CV04.M_Med_Soldier_04_CV04",
+									"Researcher": "string",
+									"log": "Body 3/3"
+								}
+							]
 						},
 						{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/F_MED_Treasure_Hunter_Fashion_AnimBp.F_MED_Treasure_Hunter_Fashion_AnimBp_C",
-							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer_AnimBP.F_MED_Brite_Bomber_Summer_AnimBP_C",
-							"Researcher": "string",
-							"log": "Body 2/2"
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_RedKnightWinter",
+							"swaps": [{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+									"replace": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
+									"Researcher": "string",
+									"log": "Head 1/3"
+								},
+								{
+									"search": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS.F_Med_HIS",
+									"replace": "/Game/Characters/CharacterColorSwatches/Skin/M_Med_BLK.M_Med_BLK",
+									"Researcher": "string",
+									"log": "Head 2/3"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Chainmail/F_MED_Commando_RedKnight_Winter.F_MED_Commando_RedKnight_Winter",
+									"replace": "/Game/Juicy.Juicy",
+									"Researcher": "string",
+									"log": "Head 3/3"
+								},
+								{
+									"search": "AdditionalData",
+									"replace": "11111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "ByteProperty",
+									"replace": "111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "BoolProperty",
+									"replace": "111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "CustomCharacterPart",
+									"replace": "1111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterFaceData",
+									"replace": "11111111111111111111111111111111",
+									"Researcher": "string"
+								}
+							]
 						},
 						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ArrayProperty",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-
-							"search": "BoolProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-
-							"search": "CharacterPartType",
-							"replace": "11111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/Hat_F_Commando_RedKnightWinter",
+							"swaps": [{
+									"search": "/Game/Accessories/Hats/Mesh/Female_Commando_BR_BlackKnight_01.Female_Commando_BR_BlackKnight_01",
+									"replace": "/Game/Accessories/Hats/Mesh/Male_Commando_02.Male_Commando_02",
+									"Researcher": "string",
+									"log": "Hat 1/2"
+								},
+								{ 
+									"search": "/Game/Accessories/Hats/Materials/Hat_Commando_RedKnight_Winter.Hat_Commando_RedKnight_Winter",
+									"replace": "/Game/Accessories/Hats/Materials/Hat_M_Commando_02_V01.Hat_M_Commando_02_V01",
+									"Researcher": "Hat 2/2"
+								},
+								{
+									"search": "Default__CustomCharacterPart",
+									"replace": "1111111111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "CustomCharacterHatData",
+									"replace": "1111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterHatData",
+									"replace": "1111111111111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "ObjectProperty",
+									"replace": "11111111111111",
+									"Researcher": "string"
+								}
+							]
 						}
 					]
 				},
 				{
-					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_TreasureHunterFashion",
-					"swaps": [{
-							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/Parts/F_MED_Treasure_Hunter_Fashion_FaceAcc.F_MED_Treasure_Hunter_Fashion_FaceAcc",
-							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head.F_MED_Brite_Bomber_Summer_Head",
-							"Researcher": "string",
-							"log": "Hair 1/2"
+					"name": "Redline_to_Renegade_Raider",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/CID_162_Athena_Commando_F_StreetRacer/smallicon.png",
+					"assets": [{
+							"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetRacer",
+							"swaps": [{
+								"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED___StreetRacerBlack.F_MED___StreetRacerBlack",
+								"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
+								"Researcher": "string",
+								"log": "Body Material"
+							}]
 						},
 						{
-							"search": "Game/Characters/Player/Female/Medium/Bodies/F_MED_Treasure_Hunter_Fashion/Meshes/Parts/F_MED_TreasureHunterFash_FaceAcc_AnimBp.F_MED_TreasureHunterFash_FaceAcc_AnimBp_C",
-							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head_AnimBP.F_MED_Brite_Bomber_Summer_Head_AnimBP_C",
-							"Researcher": "string",
-							"log": "Hair 2/2"
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StreetRacer",
+							"swaps": [{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
+									"Researcher": "string",
+									"log": "Head Mesh"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
+									"Researcher": "string",
+									"log": "Head AnimBP"
+								},
+								{
+									"search": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_HIS_StreetRacerBlack.F_Med_HIS_StreetRacerBlack",
+									"replace": "/Game/Characters/CharacterColorSwatches/Skin/F_Med_ASN.F_Med_ASN",
+									"Researcher": "string",
+									"log": "Skin Tone"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_Ponytail.F_MED_Commando_Hair_Ponytail",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_02.F_MED_ASN_Sarah_Head_02",
+									"Researcher": "string",
+									"log": "Head Material"
+								},
+								{
+									"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Female_Commando_StreetRacerBlack/Materials/F_MED_StreetRacerBlack_Head_01.F_MED_StreetRacerBlack_Head_01",
+									"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01.F_MED_ASN_Sarah_Hair_01",
+									"Researcher": "string",
+									"log": "Hair Material"
+								}
+							]
 						},
 						{
-							"search": "AdditionalData",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ByteProperty",
-							"replace": "111111111111",
-							"Researcher": "string"
-						},
-						{
-
-							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CustomCharacterPart",
-							"replace": "1111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
-
-						},
-						{
-							"search": "GenderPermitted",
-							"replace": "111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ObjectProperty",
-							"replace": "11111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "SoftObjectProperty",
-							"replace": "111111111111111111",
-							"Researcher": "string"
+							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_StreetRacer",
+							"swaps": [{
+									"search": "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack",
+									"replace": "/Game/Accessories/Hats/Materials/Female_Commando_07_V01.Female_Commando_07_V01",
+									"Researcher": "string",
+									"log": "Hat Material"
+								},
+								{
+									"search": "/Game/Accessories/Hats/Mesh/Female_Outlander_06.Female_Outlander_06",
+									"replace": "/Game/Accessories/Hats/Mesh/Female_Commando_08.Female_Commando_08",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterPart",
+									"replace": "1111111111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "CustomCharacterHatData",
+									"replace": "1111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterHatData",
+									"replace": "1111111111111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "ObjectProperty",
+									"replace": "11111111111111",
+									"Researcher": "string"
+								}
+							]
 						}
 					]
-				},
-				{
-					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TreasureHunterFashion",
-					"swaps": [{
-						"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/TreasureHunterF/Materials/F_MED_THFashion_Head.F_MED_THFashion_Head",
-						"replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Luchador/F_MED_Commando_Head_01_Luchador.F_MED_Commando_Head_01_Luchador",
-						"Researcher": "string",
-						"log": "Head"
-					},
-					{
-						"search": "AdditionalData",
-						"replace": "11111111111111",
-						"Researcher": "string"
-					},
-					{
-						"search": "BodyTypesPermitted",
-						"replace": "111111111111111111",
-						"Researcher": "string"
-					},
-					{
-						"search": "ByteProperty",
-						"replace": "111111111111",
-						"Researcher": "string"
-					},
-					{
-						"search": "GenderPermitted",
-						"replace": "111111111111111",
-						"Researcher": "string"
-					},
-					{
-						"search": "Default__CustomCharacterHeadData",
-						"replace": "11111111111111111111111111111111",
-						"Researcher": "string"
-					},
-					{
-						"search": "Default__CustomCharacterPart",
-						"replace": "1111111111111111111111111111",
-						"Researcher": "string"
-					}
-				]
 				}
 			]
 		}

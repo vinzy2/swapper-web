@@ -286,7 +286,7 @@
 							"parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_StreetRacer",
 							"swaps": [{
 									"search": "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBlack",
-									"replace": "/Game/Accessories/Hats/Materials/Female_Commando_07.Female_Commando_07",
+									"replace": "/Game/Accessories/Hats/Materials/Hat_F_StreetRacerBlack.Hat_F_StreetRacerBl000",
 									"Researcher": "string",
 									"log": "Hat Material"
 								},

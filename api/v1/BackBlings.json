@@ -199,6 +199,26 @@
                             "replace": "/Game/Accessories/FORT_Capes/M_MED_DarkEagle_Cape/Meshes/M_MED_DarkEagle_Cape.M_MED_DarkEagle_Cape",
                             "Researcher": "string",
                             "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
                         }
                     ]
                 }

@@ -224,6 +224,51 @@
                 }
                 
             ]
+        },
+        {
+            "name": "Pool_Party_to_Cuddle_Bow",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_058_DarkEagle/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_074_LifeguardFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_LifeguardFemale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_SummerHeroes_Unicorn/Meshes/Backpack_Summer_Heroes_Unicorn_Export.Backpack_Summer_Heroes_Unicorn_Export",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_F_BackPack_BR039.SK_F_BackPack_BR039_BackPack_BR039",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_SummerHeroes_Unicorn/Meshes/Backpack_Summer_Heroes_Unicorn_Export_Skeleton_AnimBP.Backpack_Summer_Heroes_Unicorn_Export_Skeleton_AnimBP_C",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/SK_F_BackPack_BR039_BackPack_BR039_Skeleton_AnimBP.SK_F_BackPack_BR039_BackPack_BR039_Skeleton_AnimBP_C",
+                            "Researcher": "string",
+                            "log": "Mesh BP"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+                
+            ]
         }
     ]
 }

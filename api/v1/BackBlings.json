@@ -19,21 +19,6 @@
                             "replace": "Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor",
                             "Researcher": "string",
                             "log": "FX"
-                        },
-                        {
-                            "search": "AdditionalData",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ByteProperty",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterPart",
-                            "replace": "",
-                            "Researcher": "string"
                         }
                     ]
                 }

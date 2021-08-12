@@ -1186,16 +1186,6 @@
 										"replace": "1111111",
 										"Researcher": "string"
 									},
-									{
-										"search": "PlayerLoadout_AthenaPlayer",
-										"replace": "11111111111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "OverridePawnClass",
-										"replace": "11111111111111111",
-										"Researcher": "string"
-									},
                                     {
 										"search": "Package",
 										"replace": "1111111",
@@ -1215,17 +1205,8 @@
 										"search": "ArrayProperty",
 										"replace": "1111111111111",
 										"Researcher": "string"
-									},
-									{
-										"search": "TransmogSacrificeRow",
-										"replace": "11111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "XPAccountItemRewards",
-										"replace": "11111111111111111111",
-										"Researcher": "string"
 									}
+									
 						]
 					}
 				]

@@ -1145,8 +1145,7 @@
 		},
 		{
 			"name": "Rox_to_AutumnQueen",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_617_Athena_Commando_F_ForestQueen/smallicon.png",
-			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
 			"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
 			"assets": [{
 					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT1",

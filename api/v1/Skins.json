@@ -1337,11 +1337,13 @@
 							"Researcher": "string"
 						},
 						{
+
 							"search": "BoolProperty",
 							"replace": "111111111111",
 							"Researcher": "string"
 						},
 						{
+
 							"search": "CharacterPartType",
 							"replace": "11111111111111111",
 							"Researcher": "string"
@@ -1349,6 +1351,17 @@
 						{
 							"search": "$Default__CustomCharacterBodyPartData",
 							"replace": "1111111111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterHeadData",
+							"replace": "11111111111111111111111111111111",
 							"Researcher": "string"
 						},
 						{
@@ -1383,8 +1396,9 @@
 							"Researcher": "string"
 						},
 						{
-							"search": "BoolProperty",
-							"replace": "111111111111",
+
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
 							"Researcher": "string"
 						},
 						{
@@ -1393,7 +1407,12 @@
 							"Researcher": "string"
 						},
 						{
-							"search": "Default__CustomCharacterFaceData",
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterHeadData",
 							"replace": "11111111111111111111111111111111",
 							"Researcher": "string"
 						},
@@ -1401,6 +1420,7 @@
 							"search": "Default__CustomCharacterPart",
 							"replace": "1111111111111111111111111111",
 							"Researcher": "string"
+
 						},
 						{
 							"search": "GenderPermitted",

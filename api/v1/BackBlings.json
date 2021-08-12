@@ -136,6 +136,11 @@
                             "search": "GenderPermitted",
                             "replace": "",
                             "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
                         }
                     ]
                 }

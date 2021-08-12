@@ -222,7 +222,7 @@
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_BlowingBubbles/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_AcrobaticSuperhero",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BlowingBubbles",
                     "swaps": [
                         {
                             "search": "/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMM_M.Emote_BlowingBubble_CMM_M",
@@ -233,6 +233,150 @@
                         {
                             "search": "/Game/Animation/Game/MainPlayer/Emotes/BlowingBubble/Emote_BlowingBubble_CMF_M.Emote_BlowingBubble_CMF_M",
                             "replace": "/Game/Animation/Game/MainPlayer/Emotes/NeverGonna/Emote_NeverGonna_CMF_M.Emote_NeverGonna_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Regal_Wave_to_Infectious",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_GothDance/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_RegalWave/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_RegalWave",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Regal_Wave/Emote_Regal_Wave_CMF_M.Emote_Regal_Wave_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/GothDance/Emote_GothDance_CMF_M.Emote_GothDance_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Regal_Wave/Emote_Regal_Wave_CMM_M.Emote_Regal_Wave_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/GothDance/Emote_GothDance_CMM_M.Emote_GothDance_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Featherweight_to_Levitate",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Davinci/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_Dumbbell_Lift/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Dumbbell_Lift",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMF_M.Emote_Dumbbell_Lift_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/DaVinci/Davinci_CMF_M.Davinci_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMM_M.Emote_Dumbbell_Lift_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/DaVinci/Davinci_CMM_M.Davinci_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Take_The_Elf_to_Orange_Justice",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_GoodVibes/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMF_M.Emote_Dumbbell_Lift_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/DaVinci/Davinci_CMF_M.Davinci_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Dumbbell/Emote_Dumbbell_Lift_CMM_M.Emote_Dumbbell_Lift_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/DaVinci/Davinci_CMM_M.Davinci_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Popcorn_to_Out_West",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_JulyBooks/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_Popcorn/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Popcorn",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Eating_Popcorn/Emote_eating_popcorn_CMF.Emote_eating_popcorn_CMF",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JulyBooks/Emote_JulyBooks_CMF_M.Emote_JulyBooks_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Eating_Popcorn/Emote_eating_popcorn_CMM.Emote_eating_popcorn_CMM",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/JulyBooks/Emote_JulyBooks_CMM_M.Emote_JulyBooks_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Popcorn_to_Poki",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_IndigoApple/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_Popcorn/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Popcorn",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Eating_Popcorn/Emote_eating_popcorn_CMF.Emote_eating_popcorn_CMF",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/IndigoApple/Emote_IndigoApple_CMF_M.Emote_IndigoApple_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Eating_Popcorn/Emote_eating_popcorn_CMM.Emote_eating_popcorn_CMM",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/IndigoApple/Emote_IndigoApple_CMM_M.Emote_IndigoApple_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cluck_Strut_to_Pony_Up",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_RideThePonyTwo/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_ChickenMoves/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_ChickenMoves",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Chicken_Moves/Emote_Chicken_Moves_CMM_M.Emote_Chicken_Moves_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/RideThePony_v2/RideThePony_v2_CMF_M.RideThePony_v2_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Chicken_Moves/Emote_Chicken_Moves_CMF_M.Emote_Chicken_Moves_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/RideThePony_v2/RideThePony_v2_CMM_M.RideThePony_v2_CMM_M",
                             "Researcher": "string",
                             "log": "Dance 2/2"
                         }

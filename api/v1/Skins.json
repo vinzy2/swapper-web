@@ -1146,82 +1146,82 @@
 									},
 									{
 										"search": "AttributeInitCategory",
-										"replace": "",
+										"replace": "111111111111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "ArrayProperty",
-										"replace": "",
+										"replace": "1111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "BoolProperty",
-										"replace": "",
+										"replace": "111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "BaseItemRating",
-										"replace": "",
+										"replace": "11111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "GameplayTagContainer",
-										"replace": "",
+										"replace": "11111111111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "ObjectProperty",
-										"replace": "",
+										"replace": "11111111111111",
 										"Researcher": "string"
                                     },
 									{
 										"search": "ScriptStruct",
-										"replace": "",
+										"replace": "111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "RowName",
-										"replace": "",
+										"replace": "1111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "PlayerLoadout_AthenaPlayer",
-										"replace": "",
+										"replace": "11111111111111111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "OverridePawnClass",
-										"replace": "",
+										"replace": "11111111111111111",
 										"Researcher": "string"
 									},
                                     {
 										"search": "Package",
-										"replace": "",
+										"replace": "1111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "NameProperty",
-										"replace": "",
+										"replace": "111111111111",
 										"Researcher": "string"
                                     },
 									{
 										"search": "LevelToSacrificeXpHandle",
-										"replace": "",
+										"replace": "111111111111111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "ArrayProperty",
-										"replace": "",
+										"replace": "1111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "TransmogSacrificeRow",
-										"replace": "",
+										"replace": "11111111111111111111",
 										"Researcher": "string"
 									},
 									{
 										"search": "XPAccountItemRewards",
-										"replace": "",
+										"replace": "11111111111111111111",
 										"Researcher": "string"
 									}
 								]

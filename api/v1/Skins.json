@@ -1089,45 +1089,6 @@
 								"Researcher": "string"
 							},
 							{
-								"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_MechanicalEngineer",
-								"swaps": [{
-										"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/Female_Medium_Mechanical_Engineer_Head_01.Female_Medium_Mechanical_Engineer_Head_01",
-										"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head.Female_Medium_Buffet_Head",
-										"Researcher": "string",
-										"log": "Head Mesh"
-									},
-									{
-										"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Mechanical_Engineer_Head_01/Meshes/F_MED_Mechanical_Engineer_Head_AnimBP_Child.F_MED_Mechanical_Engineer_Head_AnimBP_Child_C",
-										"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Buffet_Head/Meshes/Female_Medium_Buffet_Head_AnimBP.Female_Medium_Buffet_Head_AnimBP_C",
-										"Researcher": "string",
-										"log": "Head AnimBP"
-									},
-									{
-										"search": "AdditionalData",
-										"replace": "11111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "BodyTypesPermitted",
-										"replace": "111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "ByteProperty",
-										"replace": "111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "GenderPermitted",
-										"replace": "111111111111111",
-										"Researcher": "string"
-									}
-									
-							
-
-								]
-							},
-							{
 								"parentasset": "FortniteGame/Content/Athena/Heroes/HID_770_Athena_Commando_F_MechanicalEngineer",
 								"swaps": [
 									{

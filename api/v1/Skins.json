@@ -1133,7 +1133,10 @@
 								"search": "Default__CustomCharacterPart",
 								"replace": "1111111111111111111111111111",
 								"Researcher": "string"
-							},
+							}
+						]
+					},
+							
 							{
 								"parentasset": "FortniteGame/Content/Athena/Heroes/HID_770_Athena_Commando_F_MechanicalEngineer",
 								"swaps": [
@@ -1228,8 +1231,6 @@
 				]
 			}
 		]
-	}
-    ]
 }
 				
 			

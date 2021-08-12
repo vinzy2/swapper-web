@@ -2,8 +2,8 @@
     "items": [
         {
             "name": "Nitelite_to_Pink_Ghoul_Trooper",
-            "icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/bid_029_retrogrey/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_166_RavenWinterMale/smallicon.png",
             "assets": [
                 {
                     "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RavenWinterMale",

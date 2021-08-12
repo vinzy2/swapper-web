@@ -1320,6 +1320,41 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer_AnimBP.F_MED_Brite_Bomber_Summer_AnimBP_C",
 							"Researcher": "string",
 							"log": "Body 2/2"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ArrayProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CharacterPartType",
+							"replace": "11111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "$Default__CustomCharacterBodyPartData",
+							"replace": "1111111111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				},
@@ -1336,6 +1371,51 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head_AnimBP.F_MED_Brite_Bomber_Summer_Head_AnimBP_C",
 							"Researcher": "string",
 							"log": "Hair 2/2"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CustomCharacterPart",
+							"replace": "1111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterFaceData",
+							"replace": "11111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ObjectProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "SoftObjectProperty",
+							"replace": "111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				},

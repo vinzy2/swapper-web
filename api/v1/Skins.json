@@ -1135,83 +1135,12 @@
 								"Researcher": "string"
 							}
 						]
-					},
-							
-							{
-								"parentasset": "FortniteGame/Content/Athena/Heroes/HID_770_Athena_Commando_F_MechanicalEngineer",
-								"swaps": [
-									{
-										"search": "/Game/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_s13/MechanicalEngineer/MechanicalEngineer_Female_Idle_Montage.MechanicalEngineer_Female_Idle_Montage",
-										"replace": "/Game/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_S17/Buffet/Buffet_Female_Idle_Montage.Buffet_Female_Idle_Montage",
-										"Researcher": "string",
-										"log": "Lobby Anim Montage"
-									},
-									{
-										"search": "AttributeInitCategory",
-										"replace": "111111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "ArrayProperty",
-										"replace": "1111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "BoolProperty",
-										"replace": "111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "BaseItemRating",
-										"replace": "11111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "GameplayTagContainer",
-										"replace": "11111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "ObjectProperty",
-										"replace": "11111111111111",
-										"Researcher": "string"
-                                    },
-									{
-										"search": "ScriptStruct",
-										"replace": "111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "RowName",
-										"replace": "1111111",
-										"Researcher": "string"
-									},
-                                    {
-										"search": "Package",
-										"replace": "1111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "NameProperty",
-										"replace": "111111111111",
-										"Researcher": "string"
-                                    },
-									{
-										"search": "LevelToSacrificeXpHandle",
-										"replace": "111111111111111111111111",
-										"Researcher": "string"
-									},
-									{
-										"search": "ArrayProperty",
-										"replace": "1111111111111",
-										"Researcher": "string"
-									}
-									
-						]
 					}
-				]
-			}
-		]
+
+									
+			]
+	    }
+	]
 }
 				
 			

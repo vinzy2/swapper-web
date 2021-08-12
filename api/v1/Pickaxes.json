@@ -1,79 +1,56 @@
 {
     "items": [
         {
-            "name": "Nitelite_to_Pink_Ghoul_Trooper",
-            "icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
+            "name": "Take_The_Elf_to_Scenario",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow",
+                    "parentasset": "FortniteGame/Content/Athena/Items/Weapons/WID_Harvest_Pickaxe_SweaterWeatherMale",
                     "swaps": [
                         {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/M_F_Med_Soldier_01_AuroraGlow.M_F_Med_Soldier_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/Meshes/Sweater_Weather_Male_Axe.Sweater_Weather_Male_Axe",
+                            "replace": "/Game/Weapons/FORT_Melee/Pickaxe_TeriyakiFish/Meshes/Pickaxe_TeriyakiFish.Pickaxe_TeriyakiFish",
                             "Researcher": "string",
-                            "log": "Body"
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Ready_Athena_Cue.PickAxe_SweaterWeatherMale_Ready_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Ready_Cue.PA_TeriyakiFish_Ready_Cue",
+                            "Researcher": "string",
+                            "log": "Equip"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Swing_Athena_Cue.PickAxe_SweaterWeatherMale_Swing_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Swing_Cue.PA_TeriyakiFish_Swing_Cue",
+                            "Researcher": "string",
+                            "log": "Swing"
+                        },
+                        {
+                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue.PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue",
+                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Impact_Cue.PA_TeriyakiFish_Impact_Cue",
+                            "Researcher": "string",
+                            "log": "Impact"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Swing.P_Pickaxe_SweaterWeatherMale_Swing",
+                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_Teriyaki_PickAxe_Swing.P_Teriyaki_PickAxe_Swing",
+                            "Researcher": "string",
+                            "log": "Swingfx"
+                        },
+                        {
+                            "search": "Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeather_Impact.P_Pickaxe_SweaterWeather_Impact",
+                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_TeriYaki_Pickaxe_Impact.P_TeriYaki_Pickaxe_Impact",
+                            "Researcher": "string",
+                            "log": "Impactfx"
+                        },
+                        {
+                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Idle.P_Pickaxe_SweaterWeatherMale_Idle",
+                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_Teriyaki_PickAxe_iDLE.P_Teriyaki_PickAxe_Idle",
+                            "Researcher": "string",
+                            "log": "Idlefx"
                         }
-                    ]
-                },
-                {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow",
-                    "swaps": [
-                        {
-                            "search": "/Game/Characters/CharacterColorSwatches/Skin/F_BLK_Luna.F_BLK_Luna",
-                            "replace": "/Game/Characters/",
-                            "Researcher": "string",
-                            "log": "Color"
-                        },
-                        {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Hair_01_AuroraGlow.F_MED_Commando_Hair_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Hair.F_MED_Ramirez_Zombie_Pink_Hair",
-                            "Researcher": "string",
-                            "log": "Hair"
-                        },
-                        {
-                            "search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Aurora_Glow/Materials/F_MED_Commando_Head_01_AuroraGlow.F_MED_Commando_Head_01_AuroraGlow",
-                            "replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Ramirez_Zombie_Pink_Head.F_MED_Ramirez_Zombie_Pink_Head",
-                            "Researcher": "string",
-                            "log": "Head"
-                        }
-                    ]
-                },
-                {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Hats/CP_Hat_F_Commando_AuroraGlow",
-                    "swaps": [
-                        {
-                            "search": "/Game/Accessories/Glasses/Materials/MI_AuroraGlow_Glasses.MI_AuroraGlow_Glasses",
-                            "replace": "/Game/Accessories/",
-                            "Researcher": "string",
-                            "log": "Glasses Mat"
-                        },
-                        {
-                            "search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
-                            "replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterPart",
-                            "replace": "1111111111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "CustomCharacterHatData",
-                            "replace": "1111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterHatData",
-                            "replace": "1111111111111111111111111111111",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ObjectProperty",
-                            "replace": "11111111111111",
-                            "Researcher": "string",
-                            "log": "Shades"
-                        }
+
                     ]
                 }
             ]

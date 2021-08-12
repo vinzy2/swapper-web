@@ -70,11 +70,11 @@
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RockerPunk",
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
                     "swaps": [
                         {
-                            "search": "Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
-                            "replace": "Accessories/FORT_Backpacks/Mesh/Female_Commando_Guitar.Female_Commando_Guitar",
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Mesh/Female_Commando_Guitar.Female_Commando_Guitar",
                             "Researcher": "string",
                             "log": "Mesh"
                         },

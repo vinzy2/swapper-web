@@ -146,6 +146,45 @@
                 }
                 
             ]
+        },
+        {
+            "name": "Arroyo_Pack_to_Six_String",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedKnightWinterFemale",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Materials/Female_Commando_RedKnight_Winter.Female_Commando_RedKnight_Winter",
+                            "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_BlackknightV00.Male_Commando_BR_BlackknightV00",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+                
+            ]
         }
     ]
 }

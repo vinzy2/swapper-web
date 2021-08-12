@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "name": "Nitelite_to_Pink_Ghoul_Trooper",
+            "name": "RavenWinter_BackBack_to_TwitchBackbling",
             "icon": "https://fortnite-api.com/images/cosmetics/br/bid_029_retrogrey/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_166_RavenWinterMale/smallicon.png",
             "assets": [
@@ -19,6 +19,25 @@
                             "replace": "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor",
                             "Researcher": "string",
                             "log": "FX"
+                        }
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "name": "Rearguard_to_Scaly",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_031_Dinosaur/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_071_VikingFemale/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RavenWinterMale",
+                    "swaps": [
+                        {
+                            "search": "FORT_Backpacks/M_MED_Viking_Backpack/Meshes/SK_Backpack_Male_Viking.SK_Backpack_Male_Viking",
+                            "replace": "FORT_Backpacks/Mesh/SK_Backpack_Male_Commando_11.SK_Backpack_Male_Commando_11",
+                            "Researcher": "string",
+                            "log": "Mesh"
                         }
                     ]
                 }

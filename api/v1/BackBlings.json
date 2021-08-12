@@ -16,7 +16,7 @@
                         },
                         {
                             "search": "/Game/Accessories/FORT_Backpacks/M_Commandor_Raven_Winter_Backpack/Materials/MI_Backpack_Raven_Winter.MI_Backpack_Raven_Winter",
-                            "replace": "Male_Commando_02_StealthRaptor.Male_Commando_02_StealthRaptor",
+                            "replace": "/Game/Accessories/",
                             "Researcher": "string",
                             "log": "FX"
                         }

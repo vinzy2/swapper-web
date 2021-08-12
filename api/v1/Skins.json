@@ -1242,6 +1242,21 @@
 							"search": "Default__CustomCharacterPart",
 							"replace": "1111111111111111111111111111",
 							"Researcher": "string"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ObjectProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "SoftObjectProperty",
+							"replace": "111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				},

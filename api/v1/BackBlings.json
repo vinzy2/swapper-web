@@ -187,9 +187,9 @@
             ]
         },
         {
-            "name": "Frozen_Red_Shield_to_Black_Shield",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_004_BlackKnight/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_167_RedKnightWinterFemale/smallicon.png",
+            "name": "Fabled_Cape_to_Battle_Shroud",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_058_DarkEagle/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_121_RedRiding/smallicon.png",
             "assets": [
                 {
                     "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_RedRiding",
@@ -199,26 +199,6 @@
                             "replace": "/Game/Accessories/FORT_Capes/M_MED_DarkEagle_Cape/Meshes/M_MED_DarkEagle_Cape.M_MED_DarkEagle_Cape",
                             "Researcher": "string",
                             "log": "Mesh"
-                        },
-                        {
-                            "search": "AdditionalData",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "ByteProperty",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "Default__CustomCharacterPart",
-                            "replace": "",
-                            "Researcher": "string"
-                        },
-                        {
-                            "search": "GenderPermitted",
-                            "replace": "",
-                            "Researcher": "string"
                         }
                     ]
                 }

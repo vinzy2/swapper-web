@@ -1095,6 +1095,36 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Luchador/F_MED_Commando_Head_01_Luchador.F_MED_Commando_Head_01_Luchador",
 							"Researcher": "string",
 							"log": "Head"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterFaceData",
+							"replace": "11111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				}]

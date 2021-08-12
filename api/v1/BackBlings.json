@@ -102,6 +102,45 @@
                 }
                 
             ]
+        },
+        {
+            "name": "Mutiny_to_Spectral_Spine",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_034_RockerPunk/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_216_PirateProgressive/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_PirateProgressive",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_M_MED_Pirate_Progressive/Meshes/Backpack_Pirate_Progressive.Backpack_Pirate_Progressive",
+                            "replace": "/Game/Accessories/FORT_Backpacks/M_MED_StreetDemon_Backpack/Meshes/M_MED_Street_Demon_Pack.M_MED_Street_Demon_Pack",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+                
+            ]
         }
     ]
 }

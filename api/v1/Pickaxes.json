@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "name": "Take_The_Elf_to_Scenario",
+            "name": "Snowy_to_Bootstraps",
             "icon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_142_TeriyakiFish/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_334_SweaterWeatherMale/smallicon.png",
             "assets": [
@@ -49,8 +49,27 @@
                             "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_Teriyaki_PickAxe_iDLE.P_Teriyaki_PickAxe_Idle",
                             "Researcher": "string",
                             "log": "Idlefx"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ColumnName",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "SoftObjectProperty",
+                            "replace": "",
+                            "Researcher": "string"
                         }
-
                     ]
                 }
             ]

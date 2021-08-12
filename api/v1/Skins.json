@@ -1145,9 +1145,9 @@
 		},
 		{
 			"name": "Rox_to_AutumnQueen",
-			"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_617_Athena_Commando_F_ForestQueen/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
+			"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
 			"assets": [{
 					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT1",
 					"swaps": [{
@@ -1305,7 +1305,6 @@
 		},
 		{
 			"name": "Aura_To_Beach_Bomber",
-
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_460_Athena_Commando_F_BriteBomberSummer/smallicon.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_397_Athena_Commando_F_TreasureHunterFashion/smallicon.png",
 			"assets": [{
@@ -1321,6 +1320,41 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/F_MED_Brite_Bomber_Summer_AnimBP.F_MED_Brite_Bomber_Summer_AnimBP_C",
 							"Researcher": "string",
 							"log": "Body 2/2"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ArrayProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CharacterPartType",
+							"replace": "11111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "$Default__CustomCharacterBodyPartData",
+							"replace": "1111111111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				},
@@ -1337,6 +1371,51 @@
 							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Brite_Bomber_Summer/Meshes/Parts/F_MED_Brite_Bomber_Summer_Head_AnimBP.F_MED_Brite_Bomber_Summer_Head_AnimBP_C",
 							"Researcher": "string",
 							"log": "Hair 2/2"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BoolProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CustomCharacterPart",
+							"replace": "1111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterFaceData",
+							"replace": "11111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ObjectProperty",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "SoftObjectProperty",
+							"replace": "111111111111111111",
+							"Researcher": "string"
 						}
 					]
 				},
@@ -1347,7 +1426,38 @@
 						"replace": "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Luchador/F_MED_Commando_Head_01_Luchador.F_MED_Commando_Head_01_Luchador",
 						"Researcher": "string",
 						"log": "Head"
-					}]
+					},
+					{
+						"search": "AdditionalData",
+						"replace": "11111111111111",
+						"Researcher": "string"
+					},
+					{
+						"search": "BodyTypesPermitted",
+						"replace": "111111111111111111",
+						"Researcher": "string"
+					},
+					{
+						"search": "ByteProperty",
+						"replace": "111111111111",
+						"Researcher": "string"
+					},
+					{
+						"search": "GenderPermitted",
+						"replace": "111111111111111",
+						"Researcher": "string"
+					},
+					{
+						"search": "Default__CustomCharacterHeadData",
+						"replace": "11111111111111111111111111111111",
+						"Researcher": "string"
+					},
+					{
+						"search": "Default__CustomCharacterPart",
+						"replace": "1111111111111111111111111111",
+						"Researcher": "string"
+					}
+				]
 				}
 			]
 		}

@@ -323,7 +323,7 @@
 			},
 			{
 				"name": "Nitelite_to_Pink_Ghoul_Trooper",
-				"ExtraInfo": "Just a text lol",
+				"ExtraInfo": "Just a test lol",
 				"icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
 				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
 				"assets": [{
@@ -994,6 +994,58 @@
 						]
 					}
 				]
+			},
+			{
+				"name": "Rox_to_AutumnQueen",
+				"ExtraInfo": "This skin uses Tier 1 of Rox. Please select this style before swapping Autumn Queen.",
+				"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_158_Athena_Commando_F_Buffet_YC20H/smallicon.png",
+				"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_408_Athena_Commando_F_StrawberryPilot/smallicon.png",
+				"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StrawberryPilotT1",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Meshes/F_MED_StrawberryPilot_T1_Body.F_MED_StrawberryPilot_T1_Body",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/F_MED_Forest_Queen.F_MED_Forest_Queen",
+							"Researcher": "string",
+							"log": "Body 1/2"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Meshes/F_MED_StrawberryPilot_AnimBP.F_MED_StrawberryPilot_AnimBP_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/F_MED_Forest_Queen_AnimBp.F_MED_Forest_Queen_AnimBp_C",
+							"Researcher": "string",
+							"log": "Body 2/2"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT1",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Meshes/Parts/F_MED_StrawberryPilot_LongHair_FaceAcc.F_MED_StrawberryPilot_LongHair_FaceAcc",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/Parts/F_MED_Forest_Queen_FaceAcc.F_MED_Forest_Queen_FaceAcc",
+							"Researcher": "string",
+							"log": "Hair 1/2"
+						},
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Meshes/Parts/F_MED_StrawberryPilot_LongHair_FaceAcc_AnimBP.F_MED_StrawberryPilot_LongHair_FaceAcc_AnimBP_C",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Forest_Queen/Meshes/Parts/F_MED_Forest_Queen_FaceAcc_AnimBp.F_MED_Forest_Queen_FaceAcc_AnimBp_C",
+							"Researcher": "string",
+							"log": "Hair 2/2"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/FaceAccessories/CP_F_MED_StrawberryPilotT1",
+					 "swaps":[
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Strawberry_Pilot/Materials/MI_F_Strawberry_Pilot_Head.MI_F_Strawberry_Pilot_Head",
+							"replace": "/Game/Characters/Player/Female/Medium/Heads/F_MED_Forest_Queen/Materials/MI_F_MED_Forest_Queen_Head.MI_F_MED_Forest_Queen_Head",
+							"Researcher": "string",
+							"log": "Head"
+						}
+					]
+				}]
 			},
 			{
 				"name": "Jules_to_Ariana_Grande",

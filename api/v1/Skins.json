@@ -1329,37 +1329,42 @@
 								},
 								{
 									"search": "AdditionalData",
-									"replace": "11111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "ArrayProperty",
-									"replace": "11111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "BodyTypesPermitted",
-									"replace": "111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "BoolProperty",
-									"replace": "111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "CharacterPartType",
-									"replace": "11111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "$Default__CustomCharacterBodyPartData",
-									"replace": "1111111111111111111111111111111111111",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "CustomPartMaterialOverrideData",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "MaterialOverrideFlags",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								}
 							]
@@ -1395,12 +1400,27 @@
 									"Researcher": "string"
 								},
 								{
-									"search": "BoolProperty",
+									"search": "Default__CustomCharacterHeadData",
 									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "CustomCharacterPart",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterPart",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "IntProperty",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "NameProperty",
 									"replace": "",
 									"Researcher": "string"
 								}
@@ -1436,6 +1456,31 @@
 								},
 								{
 									"search": "ObjectProperty",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "NameProperty",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "CustomPartMaterialOverrideData",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "AttachSocketName",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "ByteProperty",
+									"replace": "",
+									"Researcher": "string"
+								},
+								{
+									"search": "MaterialOverrides",
 									"replace": "",
 									"Researcher": "string"
 								}

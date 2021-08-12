@@ -1326,6 +1326,41 @@
 									"replace": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_04/Materials/M_Med_Soldier_04_CV04.M_Med_Soldier_04_CV04",
 									"Researcher": "string",
 									"log": "Body 3/3"
+								},
+								{
+									"search": "AdditionalData",
+									"replace": "11111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "ArrayProperty",
+									"replace": "11111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "BodyTypesPermitted",
+									"replace": "111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "BoolProperty",
+									"replace": "111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "CharacterPartType",
+									"replace": "11111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "$Default__CustomCharacterBodyPartData",
+									"replace": "1111111111111111111111111111111111111",
+									"Researcher": "string"
+								},
+								{
+									"search": "Default__CustomCharacterPart",
+									"replace": "1111111111111111111111111111",
+									"Researcher": "string"
 								}
 							]
 						},
@@ -1351,27 +1386,22 @@
 								},
 								{
 									"search": "AdditionalData",
-									"replace": "11111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "ByteProperty",
-									"replace": "111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "BoolProperty",
-									"replace": "111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "CustomCharacterPart",
-									"replace": "1111111111111111111",
-									"Researcher": "string"
-								},
-								{
-									"search": "Default__CustomCharacterFaceData",
-									"replace": "11111111111111111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								}
 							]
@@ -1391,22 +1421,22 @@
 								},
 								{
 									"search": "Default__CustomCharacterPart",
-									"replace": "1111111111111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "CustomCharacterHatData",
-									"replace": "1111111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "Default__CustomCharacterHatData",
-									"replace": "1111111111111111111111111111111",
+									"replace": "",
 									"Researcher": "string"
 								},
 								{
 									"search": "ObjectProperty",
-									"replace": "11111111111111",
+									"replace": "",
 									"Researcher": "string"
 								}
 							]

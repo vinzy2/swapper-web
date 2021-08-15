@@ -1943,66 +1943,7 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_074_Athena_Commando_F_Stripe/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_F_BR037.CP_commando_F_BR037",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head_BR037_ATH.F_Med_Head_BR037_ATH"
-		},
-		{
-			"name": "cp_Alpine_Ace_(NOR)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_053_Athena_Commando_M_SkiDude/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR.M_Med_Soldier_01_TV38_BR",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14.Hat_M_Commando_14"
-		},
-		{
-			"name": "cp_Alpine_Ace_(USA)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_054_Athena_Commando_M_SkiDude_USA/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_USA.M_Med_Soldier_01_TV38_BR_USA",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_USA.Hat_M_Commando_14_USA"
-		},
-		{
-			"name": "cp_Alpine_Ace_(CAN)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_055_Athena_Commando_M_SkiDude_CAN/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_CAN.M_Med_Soldier_01_TV38_BR_CAN",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_CAN.Hat_M_Commando_14_CAN"
-		},
-		{
-			"name": "cp_Alpine_Ace_(GBR)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_056_Athena_Commando_M_SkiDude_GBR/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_GBR.M_Med_Soldier_01_TV38_BR_GBR",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_GBR.Hat_M_Commando_14_GBR"
-		},
-		{
-			"name": "cp_Alpine_Ace_(FRA)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_057_Athena_Commando_M_SkiDude_FRA/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_FRA.M_Med_Soldier_01_TV38_BR_FRA",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_FRA.Hat_M_Commando_14_FRA"
-		},
-		{
-			"name": "cp_Alpine_Ace_(GER)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_058_Athena_Commando_M_SkiDude_GER/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_GER.M_Med_Soldier_01_TV38_BR_GER",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_GER.Hat_M_Commando_14_GER"
-		},
-		{
-			"name": "cp_Alpine_Ace_(CHN)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_059_Athena_Commando_M_SkiDude_CHN/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_CHN.M_Med_Soldier_01_TV38_BR_CHN",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_CHN.Hat_M_Commando_14_CHN"
-		},
-		{
-			"name": "cp_Alpine_Ace_(KOR)",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_060_Athena_Commando_M_SkiDude_KOR/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_01_TV38_BR_KOR.M_Med_Soldier_01_TV38_BR_KOR",
-			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_14_KOR.Hat_M_Commando_14_KOR"
-		},
-		{
-			"name": "cp_Cuddle_Team_Leader",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_069_Athena_Commando_F_PinkBear/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Female/Medium/Bodies/F_Med_Commando_Body_BR039.F_Med_Commando_Body_BR039",
-			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_Helmet_BR039.F_Med_Soldier_Helmet_BR039"
-		},
-		{
-			"name": "cp_Love_Ranger",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_070_Athena_Commando_M_Cupid/smallicon.png",
-			"Body": "/Game/Characters/CharacterParts/Male/Medium/Bodies/M_Med_Soldier_03_Cupid_Body_ATH.M_Med_Soldier_03_Cupid_Body_ATH",
-			"Head": "/Game/Athena/Heroes/Meshes/Heads/M_Med_STN_Cupid_Head_01_ATH.M_Med_STN_Cupid_Head_01_ATH"
 		}
+		
 	]
 }

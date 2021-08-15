@@ -1951,10 +1951,35 @@
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_HIS_Ramirez_Taxi.CP_Head_HIS_Ramirez_Taxi"
 		},
 		{
+			"ExtraInfo": "If you swap nitelite to ghoul trooper it will turn into pink ghoul :)",
 			"name": "cp_Nitelite",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_124_Body_F_AuroraGlow.CP_124_Body_F_AuroraGlow",
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_AuroraGlow.CP_Head_F_AuroraGlow"
+		},
+		{
+			"name": "cp_Recon_Expert",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_022_Athena_Commando_F/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_022_Athena_Body.CP_022_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_MED_BLK_Red_Head_01_ATH.F_MED_BLK_Red_Head_01_ATH"
+		},
+		{
+			"name": "cp_Chromium",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_123_Athena_Commando_F_Metal/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_123_Body_F_Metal.CP_123_Body_F_Metal",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Metal.CP_Head_F_Metal"
+		},
+		{
+			"name": "cp_Hazard_Agent",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_128_Athena_Commando_F_Hazmat/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_128_Athena_Body_F_Hazmat.CP_128_Athena_Body_F_Hazmat",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_F_Commando_Hazmat.CP_Hat_F_Commando_Hazmat"
+		},
+		{
+			"name": "cp_Toxic_Trooper",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_127_Athena_Commando_M_Hazmat/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_127_Athena_Body_M_Hazmat.CP_127_Athena_Body_M_Hazmat",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Hazmat.CP_Hat_M_Commando_Hazmat"
 		}
 		
 	]

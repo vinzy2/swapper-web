@@ -15,42 +15,6 @@
                             "log": "Mesh"
                         },
                         {
-                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Ready_Athena_Cue.PickAxe_SweaterWeatherMale_Ready_Athena_Cue",
-                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Ready_Cue.PA_TeriyakiFish_Ready_Cue",
-                            "Researcher": "string",
-                            "log": "Equip"
-                        },
-                        {
-                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Swing_Athena_Cue.PickAxe_SweaterWeatherMale_Swing_Athena_Cue",
-                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Swing_Cue.PA_TeriyakiFish_Swing_Cue",
-                            "Researcher": "string",
-                            "log": "Swing"
-                        },
-                        {
-                            "search": "/Game/Athena/Sounds/Weapons/PickAxes/SweaterWeather/PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue.PickAxe_SweaterWeatherMale_Impact_Player_Athena_Cue",
-                            "replace": "/Game/Athena/Sounds/Weapons/PickAxes/TeriyakiFish/PA_TeriyakiFish_Impact_Cue.PA_TeriyakiFish_Impact_Cue",
-                            "Researcher": "string",
-                            "log": "Impact"
-                        },
-                        {
-                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Swing.P_Pickaxe_SweaterWeatherMale_Swing",
-                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_Teriyaki_PickAxe_Swing.P_Teriyaki_PickAxe_Swing",
-                            "Researcher": "string",
-                            "log": "Swingfx"
-                        },
-                        {
-                            "search": "Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeather_Impact.P_Pickaxe_SweaterWeather_Impact",
-                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_TeriYaki_Pickaxe_Impact.P_TeriYaki_Pickaxe_Impact",
-                            "Researcher": "string",
-                            "log": "Impactfx"
-                        },
-                        {
-                            "search": "/Game/Weapons/FORT_Melee/Pickaxe_SweaterWeatherMale/FX/P_Pickaxe_SweaterWeatherMale_Idle.P_Pickaxe_SweaterWeatherMale_Idle",
-                            "replace": "/Game/Weapons/FORT_Melee/Effects/Teriyaki/P_Teriyaki_PickAxe_iDLE.P_Teriyaki_PickAxe_Idle",
-                            "Researcher": "string",
-                            "log": "Idlefx"
-                        },
-                        {
                             "search": "ByteProperty",
                             "replace": "",
                             "Researcher": "string"

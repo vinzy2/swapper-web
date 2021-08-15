@@ -1943,6 +1943,12 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_074_Athena_Commando_F_Stripe/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_F_BR037.CP_commando_F_BR037",
 			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head_BR037_ATH.F_Med_Head_BR037_ATH"
+		},
+		{
+			"name": "cp_Whiplash",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_106_Athena_Commando_F_Taxi/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_106_Body_F_Taxi.CP_106_Body_F_Taxi",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_HIS_Ramirez_Taxi.CP_Head_HIS_Ramirez_Taxi"
 		}
 		
 	]

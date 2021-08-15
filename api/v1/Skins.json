@@ -1877,6 +1877,30 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_035_Athena_Commando_M_Medieval/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_commando_KnightB_M.CP_commando_KnightB_M",
 			"Head": "/Game/Characters/CharacterParts/Hats/Hat_M_Commando_BlackKnight.Hat_M_Commando_BlackKnight"
+		},
+		{
+			"name": "cp_Ramirez",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_001_Athena_Commando_F_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_001_Athena_Body.CP_001_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Head1_ATH.F_Med_Head1_ATH"
+		},
+		{
+			"name": "cp_Banshee",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_002_Athena_Commando_F_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_002_Athena_Body.CP_002_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_MED_BLK_Red_Head_01_ATH.F_MED_BLK_Red_Head_01_ATH"
+		},
+		{
+			"name": "cp_Headhunter",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_003_Athena_Commando_F_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_003_Athena_Body.CP_003_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_MED_ASN_Sarah_Head_01_ATH.F_MED_ASN_Sarah_Head_01_ATH"
+		},
+		{
+			"name": "cp_Wildcat",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_004_Athena_Commando_F_Default/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_004_Athena_Body.CP_004_Athena_Body",
+			"Head": "/Game/Athena/Heroes/Meshes/Heads/F_MED_CAU_Armstrong_Head_01_ATH.F_MED_CAU_Armstrong_Head_01_ATH"
 		}
 	]
 }

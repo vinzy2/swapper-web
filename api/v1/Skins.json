@@ -1980,6 +1980,61 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_127_Athena_Commando_M_Hazmat/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_127_Athena_Body_M_Hazmat.CP_127_Athena_Body_M_Hazmat",
 			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Hazmat.CP_Hat_M_Commando_Hazmat"
+		},
+		{
+			"name": "cp_Moisty_Merman",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_130_Athena_Commando_M_Merman/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_130_Athena_Body_M_Merman.CP_130_Athena_Body_M_Merman",
+			"Head": "/Game/Characters/CharacterParts/Hats/CP_Hat_M_Commando_Merman.CP_Hat_M_Commando_Merman"
+		},
+		{
+			"name": "cp_Eon",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_174_Athena_Commando_F_CarbideWhite/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_CarbideWhite.CP_Body_Commando_F_CarbideWhite",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_CarbideWhite.CP_Head_F_CarbideWhite"
+			
+		},
+		{
+			"name": "cp_Skull_Ranger",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_246_Athena_Commando_F_Grave/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_Grave.CP_Body_Commando_F_Grave",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Grave.CP_Head_F_Grave"
+			
+		},
+		{
+			"name": "cp_Instinct",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_260_Athena_Commando_F_StreetOps/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StreetOps.CP_Body_Commando_F_StreetOps",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_StreetOps.CP_F_MED_StreetOps"
+			
+		},
+		{
+			"name": "cp_Tender_Defender",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_274_Athena_Commando_M_Feathers/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Feathers.CP_Athena_Body_M_Feathers",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_Feathers.CP_Athena_Head_M_Feathers"
+			
+		},
+		{
+			"name": "cp_Insight",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_276_Athena_Commando_F_SniperHood/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_SniperHood.CP_Body_Commando_F_SniperHood",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_SniperHood.CP_F_MED_SniperHood"
+			
+		},
+		{
+			"name": "cp_Bolt",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_431_Athena_Commando_F_StormPilot/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StormPilot.CP_Body_Commando_F_StormPilot",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StormPilot.CP_Head_F_StormPilot"
+			
+		},
+		{
+			"name": "cp_World_Warrior",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_478_Athena_Commando_F_WorldCup/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_WorldCup.CP_Body_Commando_F_WorldCup",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_WorldCup.CP_Head_F_WorldCup"
+			
 		}
 		
 	]

@@ -473,30 +473,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "name": "Take_The_Elf_to_Scenario",
-            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_KPopDance03/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_TakeTheElf/smallicon.png",
-            "assets": [
-                {
-                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_TakeTheElf",
-                    "swaps": [
-                        {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMF_M.Emote_Take_The_Elf_CMF_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Hula/Emote_Hula_CMF_M.Emote_Hula_CMF_M",
-                            "Researcher": "string",
-                            "log": "Dance 1/2"
-                        },
-                        {
-                            "search": "/Game/Animation/Game/MainPlayer/Emotes/Take_The_Elf/Emote_Take_The_Elf_CMM_M.Emote_Take_The_Elf_CMM_M",
-                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Hula/Emote_Hula_CMM_M.Emote_Hula_CMM_M",
-                            "Researcher": "string",
-                            "log": "Dance 2/2"
-                        }
-                    ]
-                }
-            ]
         }
     ]
 }

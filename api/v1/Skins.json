@@ -344,7 +344,6 @@
 		},
 		{
 			"name": "Nitelite_to_Pink_Ghoul_Trooper",
-			"ExtraInfo": "Just a test lol",
 			"icon": "https://media.discordapp.net/attachments/869354120832778260/871550372056014968/1ae62feafbcf487726ba4830d121a4a7.png",
 			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_124_Athena_Commando_F_AuroraGlow/smallicon.png",
 			"assets": [
@@ -395,27 +394,6 @@
 							"search": "/Game/Accessories/Glasses/Meshes/Female_Commando_Shades.Female_Commando_Shades",
 							"replace": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
 							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "CustomCharacterHatData",
-							"replace": "1111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "Default__CustomCharacterHatData",
-							"replace": "1111111111111111111111111111111",
-							"Researcher": "string"
-						},
-						{
-							"search": "ObjectProperty",
-							"replace": "11111111111111",
-							"Researcher": "string",
-							"log": "Shades"
 						}
 					]
 				}
@@ -2027,14 +2005,78 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_431_Athena_Commando_F_StormPilot/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_StormPilot.CP_Body_Commando_F_StormPilot",
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_StormPilot.CP_Head_F_StormPilot"
-			
 		},
 		{
 			"name": "cp_World_Warrior",
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_478_Athena_Commando_F_WorldCup/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_WorldCup.CP_Body_Commando_F_WorldCup",
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_WorldCup.CP_Head_F_WorldCup"
-			
+		},
+		{
+			"name": "cp_Decaying_Dribbler",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_593_Athena_Commando_F_SoccerZombieA/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_SoccerZombie.CP_Athena_Body_F_SoccerZombie",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_SoccerZombieA.CP_Head_F_SoccerZombieA"
+		},
+		{
+			"name": "cp_Putrid_Playmaker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_594_Athena_Commando_F_SoccerZombieB/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_SoccerZombieB.CP_Athena_Body_F_SoccerZombieB",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_SoccerZombieB.CP_Head_F_SoccerZombieB"
+		},
+		{
+			"name": "cp_Fatal_Finisher",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_595_Athena_Commando_F_SoccerZombieC/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_SoccerZombieC.CP_Athena_Body_F_SoccerZombieC",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_SoccerZombieC.CP_Head_F_SoccerZombieC"
+		},
+		{
+			"name": "cp_Crypt_Crosser",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_596_Athena_Commando_F_SoccerZombieD/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_SoccerZombieD.CP_Athena_Body_F_SoccerZombieD",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_SoccerZombieD.CP_Head_F_SoccerZombieD"
+		},
+		{
+			"name": "cp_Imperial_Stormtrooper",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_613_Athena_Commando_M_Columbus_7Y4QE/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Columbus.CP_Athena_Body_M_Columbus",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_Columbus.CP_Athena_Head_M_Columbus"
+		},
+		{
+			"name": "cp_Brilliant_Bomber",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_619_Athena_Commando_F_TechLlama/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_TechLlama.CP_Body_Commando_F_TechLlama",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TechLlama.CP_Head_F_TechLlama"
+		},
+		{
+			"name": "cp_Sklaxis",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_621_Athena_Commando_M_BoneSnake/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_BoneSnake.CP_Athena_Body_M_BoneSnake",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_BoneSnake.CP_M_MED_BoneSnake"
+		},
+		{
+			"name": "cp_Bundles",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_627_Athena_Commando_F_SnufflesLeader/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_SnufflesLeader.CP_Body_Commando_F_SnufflesLeader",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_SnufflesLeader.CP_F_MED_SnufflesLeader"
+		},
+		{
+			"name": "cp_Globe_Shaker",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_629_Athena_Commando_M_SnowGlobe/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_SnowGlobe.CP_Athena_Body_M_SnowGlobe",
+			"Head": "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_SnowGlobe.CP_Athena_Head_M_SnowGlobe"
+		},
+		{
+			"name": "cp_Quackling",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_744_Athena_Commando_F_DuckHero/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_DuckHero.CP_Body_Commando_F_DuckHero",
+			"Head": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_DuckHero.CP_F_MED_DuckHero"
+		},
+		{
+			"name": "cp_Cuddlepool",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_746_Athena_Commando_F_FuzzyBear/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_FuzzyBear.CP_Body_Commando_F_FuzzyBear",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Hat_F_FuzzyBear.CP_Hat_F_FuzzyBear"
 		}
 		
 	]

@@ -779,5 +779,43 @@
                 }
             ]
         },
+        {
+            "name": "Arroyo_Pack_to_Shattered_Wing",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/BID_256_ShatterFly/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                    "swaps": [
+                        {
+                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_ShatterFly_Backpack/Meshes/F_MED_Shatter_Fly_Pack.F_MED_Shatter_Fly_Pac",
+                            "Researcher": "string",
+                            "log": "Mesh"
+                        },
+                        {
+                            "search": "AdditionalData",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "ByteProperty",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "Default__CustomCharacterPart",
+                            "replace": "",
+                            "Researcher": "string"
+                        },
+                        {
+                            "search": "GenderPermitted",
+                            "replace": "",
+                            "Researcher": "string"
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

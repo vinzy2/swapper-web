@@ -2079,8 +2079,14 @@
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Hat_F_FuzzyBear.CP_Hat_F_FuzzyBear"
 		},
 		{
+			"name": "cp_Rainbow_Racer",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_746_Athena_Commando_F_FuzzyBear/smallicon.png",
+			"Body": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TaxiUpgradeMulticolor.CP_Head_F_TaxiUpgradeMulticolor",
+			"Head": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_TaxiUpgradeMulticolor.CP_Athena_Body_F_TaxiUpgradeMulticolor"
+		},
+		{
 			"name": "cp_Slingshot",
-			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_TaxiUpgrade.CP_Athena_Body_F_TaxiUpgrade",
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TaxiUpgrade.CP_Head_F_TaxiUpgrade"
 		},

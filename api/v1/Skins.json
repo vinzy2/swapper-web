@@ -2077,6 +2077,101 @@
 			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_746_Athena_Commando_F_FuzzyBear/smallicon.png",
 			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_FuzzyBear.CP_Body_Commando_F_FuzzyBear",
 			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Hat_F_FuzzyBear.CP_Hat_F_FuzzyBear"
+		},
+		{
+			"name": "cp_Slingshot",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
+			"Body": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_TaxiUpgrade.CP_Athena_Body_F_TaxiUpgrade",
+			"Head": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TaxiUpgrade.CP_Head_F_TaxiUpgrade"
+		},
+		{
+			"name": "Slingshot_to_Rainbow_Racer",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor/smallicon.png",
+			"swapicon": "https://fortnite-api.com/images/cosmetics/br/CID_552_Athena_Commando_F_TaxiUpgrade/smallicon.png",
+			"assets": [
+				{
+					"parentasset": "FortniteGame/Content/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_TaxiUpgrade",
+					"swaps": [
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_COM_Taxi_Upgraded/Materials/F_MED_COM_Taxi_Upgraded_Body.F_MED_COM_Taxi_Upgraded_Body",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_COM_Taxi_Upgraded/Skins/Multi/F_MED_Taxi_Multi_Body.F_MED_Taxi_Multi_Body",
+							"Researcher": "string",
+							"log": "Body Mesh"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "CharacterPartType",
+							"replace": "11111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "$Default__CustomCharacterBodyPartData",
+							"replace": "1111111111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+						}
+					]
+				},
+				{
+					"parentasset": "FortniteGame/Content/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_TaxiUpgrade",
+					"swaps": [
+						{
+							"search": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Skins/F_MED_COM_Taxi_Upgraded_Head/Materials/F_MED_COM_Taxi_Upgraded_Head.F_MED_COM_Taxi_Upgraded_Head",
+							"replace": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_COM_Taxi_Upgraded/Skins/Multi/F_MED_Taxi_Multi_Head.F_MED_Taxi_Multi_Head",
+							"Researcher": "string",
+							"log": "Head"
+						},
+						{
+							"search": "AdditionalData",
+							"replace": "11111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "BodyTypesPermitted",
+							"replace": "111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "ByteProperty",
+							"replace": "111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "GenderPermitted",
+							"replace": "111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterHeadData",
+							"replace": "11111111111111111111111111111111",
+							"Researcher": "string"
+						},
+						{
+							"search": "Default__CustomCharacterPart",
+							"replace": "1111111111111111111111111111",
+							"Researcher": "string"
+						}
+					]
+				}
+			]
 		}
 		
 	]

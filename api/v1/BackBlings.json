@@ -782,14 +782,14 @@
         {
             "name": "Arroyo_Pack_to_Shattered_Wing",
             "icon": "https://fortnite-api.com/images/cosmetics/br/BID_256_ShatterFly/smallicon.png",
-            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_472_DesertOpsCamo/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/BID_084_Birthday2018/smallicon.png",
             "assets": [
                 {
-                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_DesertOpsCamo",
+                    "parentasset": "FortniteGame/Content/Characters/CharacterParts/Backpacks/CP_Backpack_Birthday2018",
                     "swaps": [
                         {
-                            "search": "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Desert_Ops_Camo/Meshes/F_MED_Desert_Ops_Camo.F_MED_Desert_Ops_Camo",
-                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_ShatterFly_Backpack/Meshes/F_MED_Shatter_Fly_Pack.F_MED_Shatter_Fly_Pac",
+                            "search": "/Game/Accessories/FORT_Backpacks/M_MED_BirthdayCake_Backpack/Meshes/Backpack_BirthdayCake.Backpack_BirthdayCake",
+                            "replace": "/Game/Accessories/FORT_Backpacks/F_MED_ShatterFly_Backpack/Meshes/F_MED_Shatter_Fly_Pack.F_MED_Shatter_Fly_Pack",
                             "Researcher": "string",
                             "log": "Mesh"
                         },

@@ -2100,32 +2100,32 @@
 						},
 						{
 							"search": "AdditionalData",
-							"replace": "11111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "ByteProperty",
-							"replace": "111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "CharacterPartType",
-							"replace": "11111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "$Default__CustomCharacterBodyPartData",
-							"replace": "1111111111111111111111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						}
 					]
@@ -2141,32 +2141,32 @@
 						},
 						{
 							"search": "AdditionalData",
-							"replace": "11111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "BodyTypesPermitted",
-							"replace": "111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "ByteProperty",
-							"replace": "111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "GenderPermitted",
-							"replace": "111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "Default__CustomCharacterHeadData",
-							"replace": "11111111111111111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						},
 						{
 							"search": "Default__CustomCharacterPart",
-							"replace": "1111111111111111111111111111",
+							"replace": "",
 							"Researcher": "string"
 						}
 					]

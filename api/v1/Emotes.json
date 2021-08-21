@@ -505,7 +505,7 @@
                                 },
                                 {
                                     "search": "I'm a little bit different. They get it.",
-                                    "replace": "It's pshht and it's vroom.",
+                                    "replace": "It's pshht and it's vroom.              ",
                                     "Researcher": "string",
                                     "log": "Description"
                                 },
@@ -552,7 +552,7 @@
                         },
                         {
                             "search": "I know the moves!",
-                            "replace": "It's vroom.",
+                            "replace": "It's vroom.      ",
                             "Researcher": "string",
                             "log": "Description"
                         },

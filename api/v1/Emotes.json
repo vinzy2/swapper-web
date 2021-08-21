@@ -511,7 +511,7 @@
                                 },
                                 {
                                     "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-JanuaryBop-L.T-Icon-Emotes-E-JanuaryBop-L",
-                                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
+                                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Boomer-L.T-Icon-Emotes-E-Boomer-L",
                                     "Researcher": "string",
                                     "log": "Icon 1/2"
                                 },
@@ -558,7 +558,7 @@
                         },
                         {
                             "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KitchenNavigator-L.T-Icon-Emotes-E-KitchenNavigator-L",
-                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Boomer-L.T-Icon-Emotes-E-Boomer-L",
                             "Researcher": "string",
                             "log": "Icon 1/2"
                         },

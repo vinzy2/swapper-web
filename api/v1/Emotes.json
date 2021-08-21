@@ -462,17 +462,117 @@
                             "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-TakeTheElf-L.T-Icon-Emotes-E-TakeTheElf-L",
                             "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
                             "Researcher": "string",
-                            "log": "Icon Large"
+                            "log": "Icon 1/1"
                         },
                         {
                             "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-TakeTheElf.T-Icon-Emotes-E-TakeTheElf",
                             "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier.T-Icon-Emotes-E-Cashier",
                             "Researcher": "string",
-                            "log": "Icon Small"
+                            "log": "Icon 2/2"
                         }
                     ]
                 }
             ]
+        },
+        {
+			"name": "Bim_Bam_Boom_Options",
+			"icon": "https://fortnite-api.com/images/cosmetics/br/EID_Boomer_N2RQT/smallicon.png",
+			"Options": [
+				{
+					"name": "Jabba_Switchway_to_Bim_Bam_Boom",
+					"icon": "https://fortnite-api.com/images/cosmetics/br/EID_JanuaryBop/smallicon.png",
+					"assets": [
+						{
+							"parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_JanuaryBop",
+							"swaps": [
+                                {
+                                    "search": "/Game/Animation/Game/MainPlayer/Emotes/JanuaryBop/Emote_JanuaryBop_CMM_M.Emote_JanuaryBop_CMM_M",
+                                    "replace": "/Game/Animation/Game/MainPlayer/Emotes/Boomer/Emote_Boomer_CMM_M.Emote_Boomer_CMM_M",
+                                    "Researcher": "string",
+                                    "log": "Dance 1/2"
+                                },
+                                {
+                                    "search": "/Game/Animation/Game/MainPlayer/Emotes/JanuaryBop/Emote_JanuaryBop_CMF_M.Emote_JanuaryBop_CMF_M",
+                                    "replace": "/Game/Animation/Game/MainPlayer/Emotes/Boomer/Emote_Boomer_CMF_M.Emote_Boomer_CMF_M",
+                                    "Researcher": "string",
+                                    "log": "Dance 2/2"
+                                },
+                                {
+                                    "search": "Jabba Switchway",
+                                    "replace": "Bim Bam Boom",
+                                    "Researcher": "string",
+                                    "log": "Name"
+                                },
+                                {
+                                    "search": "I'm a little bit different. They get it.",
+                                    "replace": "It's pshht and it's vroom.",
+                                    "Researcher": "string",
+                                    "log": "Description"
+                                },
+                                {
+                                    "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-JanuaryBop-L.T-Icon-Emotes-E-JanuaryBop-L",
+                                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
+                                    "Researcher": "string",
+                                    "log": "Icon 1/2"
+                                },
+                                {
+                                    "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-JanuaryBop.T-Icon-Emotes-E-JanuaryBop",
+                                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Boomer.T-Icon-Emotes-E-Boomer",
+                                    "Researcher": "string",
+                                    "log": "Icon 2/2"
+                                }
+							]
+						}		
+					]
+				},
+        {
+            "name": "Dynamic_Shuffle_to_Bim_Bam_Boom",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/EID_KitchenNavigator/smallicon.png",
+            "assets": [
+                {
+                    "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_KitchenNavigator",
+                    "swaps": [
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/KitchenNavigator/Emote_KitchenNavigator_CMM_M.Emote_KitchenNavigator_CMM_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Boomer/Emote_Boomer_CMM_M.Emote_Boomer_CMM_M",
+                            "Researcher": "string",
+                            "log": "Dance 1/2"
+                        },
+                        {
+                            "search": "/Game/Animation/Game/MainPlayer/Emotes/KitchenNavigator/Emote_KitchenNavigator_CMF_M.Emote_KitchenNavigator_CMF_M",
+                            "replace": "/Game/Animation/Game/MainPlayer/Emotes/Boomer/Emote_Boomer_CMF_M.Emote_Boomer_CMF_M",
+                            "Researcher": "string",
+                            "log": "Dance 2/2"
+                        },
+                        {
+                            "search": "Dynamic Shuffle",
+                            "replace": "Bim Bam Boom",
+                            "Researcher": "string",
+                            "log": "Name"
+                        },
+                        {
+                            "search": "I know the moves!",
+                            "replace": "It's vroom.",
+                            "Researcher": "string",
+                            "log": "Description"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KitchenNavigator-L.T-Icon-Emotes-E-KitchenNavigator-L",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Cashier-L.T-Icon-Emotes-E-Cashier-L",
+                            "Researcher": "string",
+                            "log": "Icon 1/2"
+                        },
+                        {
+                            "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KitchenNavigator.T-Icon-Emotes-E-KitchenNavigator",
+                            "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Boomer.T-Icon-Emotes-E-Boomer",
+                            "Researcher": "string",
+                            "log": "Icon 2/2"
+                        }
+                    ]
+                }		
+            ]
         }
     ]
+}
+]
 }

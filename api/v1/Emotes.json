@@ -573,6 +573,48 @@
             ]
         }
     ]
+},
+{
+    "name": "Go_Mufasa_to_In_Da_Party",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/EID_Vivid_I434X/smallicon.png",
+    "swapicon": "https://fortnite-api.com/images/cosmetics/br/EID_SandwichBop/smallicon.png",
+    "assets": [
+        {
+            "parentasset": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SandwichBop",
+            "swaps": [
+                {
+                    "search": "/Game/Animation/Game/MainPlayer/Emotes/SandwichBop/Emote_SandwichBop_CMM_M.Emote_SandwichBop_CMM_M",
+                    "replace": "/Game/Animation/Game/MainPlayer/Emotes/Vivid/Emote_Vivid_CMM_M.Emote_Vivid_CMM_M",
+                    "Researcher": "string",
+                    "log": "Dance 1/2"
+                },
+                {
+                    "search": "/Game/Animation/Game/MainPlayer/Emotes/SandwichBop/Emote_SandwichBop_CMF_M.Emote_SandwichBop_CMF_M",
+                    "replace": "/Game/Animation/Game/MainPlayer/Emotes/Vivid/Emote_Vivid_CMF_M.Emote_Vivid_CMF_M",
+                    "Researcher": "string",
+                    "log": "Dance 2/2"
+                },
+                {
+                    "search": "Go Mufasa",
+                    "replace": "In Party",
+                    "Researcher": "string",
+                    "log": "Name"
+                },
+                {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-SandwichBop-L.T-Icon-Emotes-E-SandwichBop-L",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Vivid-L.T-Icon-Emotes-E-Vivid-L",
+                    "Researcher": "string",
+                    "log": "Icon 1/1"
+                },
+                {
+                    "search": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-SandwichBop.T-Icon-Emotes-E-SandwichBop",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-Vivid.T-Icon-Emotes-E-Vivid",
+                    "Researcher": "string",
+                    "log": "Icon 2/2"
+                }
+            ]
+        }
+    ]
 }
 ]
 }

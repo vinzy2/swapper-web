@@ -1,0 +1,36 @@
+{
+    "Reverse_Camo": {
+        "Offset": {
+            "MW_Base_Offset": "base+1A9D6000,BC,58,A97",
+            "CW_Base_Offset": "base+1A6B47F0,38,770,20"
+        },
+        "Downloads": {
+            "RarFile": ""
+        },
+        "Info": {
+            "Status": "Undeteced",
+            "PatchNotes": [
+                {
+                    "Date": "",
+                    "Info": ""
+                }
+            ]
+        }
+    },
+    "UnlockAll": {
+        "Downloads": {
+            "RarFile": "",
+            "Weapons": "",
+            "Other": ""
+        },
+        "Info": {
+            "Status": "Undeteced",
+            "PatchNotes": [
+                {
+                    "Date": "",
+                    "Info": ""
+                }
+            ]
+        }
+    }
+}

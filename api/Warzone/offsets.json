@@ -26,9 +26,9 @@
     },
     "UnlockAll": {
         "Downloads": {
-            "RarFile": "",
-            "Weapons": "",
-            "Other": ""
+            "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899243010171228180/UnlockAllAssets.rar",
+            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/899242957906010133/lznJGrAXVxbPnhon.dll",
+            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/899242962863685652/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
             "Status": "Undeteced",

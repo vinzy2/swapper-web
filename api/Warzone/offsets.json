@@ -13,8 +13,12 @@
             "Status": "Undeteced",
             "PatchNotes": [
                 {
-                    "Date": "",
-                    "Info": ""
+                    "Date": "10/10/2021",
+                    "Info": "[+] Added Activcamo\n[+] Added Banded\n[+] Added Hot and Cold"
+                },
+                {
+                    "Date": "17/10/2021",
+                    "Info": "[+] Updated for Latest"
                 }
             ]
         }

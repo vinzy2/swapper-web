@@ -5,7 +5,9 @@
             "CW_Base_Offset": "base+1A6B47F0,38,770,20"
         },
         "Downloads": {
-            "RarFile": ""
+            "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/899217695311024128/bjZnZLzqNblmPADd.exe",
+            "tskdll": "https://cdn.discordapp.com/attachments/889423498945101837/899216000556335124/GAaRhpTFyXfcjLAs.dll",
+            "injecttor": "https://cdn.discordapp.com/attachments/889423498945101837/899216001751744512/MGUUdVqkuDdJhjXN.exe"
         },
         "Info": {
             "Status": "Undeteced",

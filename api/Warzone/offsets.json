@@ -1,8 +1,8 @@
 {
     "Reverse_Camo": {
         "Offset": {
-            "MW_Base_Offset": "base+1A9D6000,BC,58,A97",
-            "CW_Base_Offset": "base+1A6B47F0,38,770,20"
+            "MW_Base_Offset": "base+1AA11000,BC,58,A97",
+            "CW_Base_Offset": "base+1A6EF7F0,38,770,20"
         },
         "Downloads": {
             "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/899217695311024128/bjZnZLzqNblmPADd.exe",
@@ -12,6 +12,12 @@
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
+
+{
+                    "Date": "19/10/2021",
+                    "Info": "[+] Updated for 1.44.0"
+                },
+
                 {
                     "Date": "17/10/2021",
                     "Info": "[+] Updated for 1.43.2"
@@ -31,7 +37,7 @@
             "Other": "https://cdn.discordapp.com/attachments/889423498945101837/899242962863685652/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
-            "Status": "Undetected",
+            "Status": "Updating",
             "PatchNotes": [
                 {
                     "Date": "17/10/2021",

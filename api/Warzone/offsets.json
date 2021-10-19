@@ -12,12 +12,10 @@
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
-
-{
+                {
                     "Date": "19/10/2021",
                     "Info": "[+] Updated for 1.44.0"
                 },
-
                 {
                     "Date": "17/10/2021",
                     "Info": "[+] Updated for 1.43.2"
@@ -26,19 +24,22 @@
                     "Date": "10/10/2021",
                     "Info": "[+] Added Activcamo\n[+] Added Banded\n[+] Added Hot and Cold"
                 }
-                
             ]
         }
     },
     "UnlockAll": {
         "Downloads": {
             "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899246703364964412/UnlockAllAssets.zip",
-            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/899242957906010133/lznJGrAXVxbPnhon.dll",
-            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/899242962863685652/TarYCEZFnLOLgpfZ.dll"
+            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/900114032516812810/lznJGrAXVxbPnhon.dll",
+            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/900114037206044742/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
-            "Status": "Updating",
+            "Status": "Undetected",
             "PatchNotes": [
+                {
+                    "Date": "19/10/2021",
+                    "Info": "[+] Updated for 1.44.0"
+                },
                 {
                     "Date": "17/10/2021",
                     "Info": "[+] Updated for 1.43.2"

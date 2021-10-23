@@ -1,4 +1,9 @@
 {
+    "Downloader": {
+        "Download": {
+            "ExeFile": "https://cdn.discordapp.com/attachments/899251365543575633/900124774318084096/KaedeLoade.exe"
+        }
+    },
     "Reverse_Camo": {
         "Offset": {
             "MW_Base_Offset": "base+1AA11000,BC,58,A97",

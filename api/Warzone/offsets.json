@@ -6,7 +6,7 @@
     },
     "Reverse_Camo": {
         "Offset": {
-            "MW_Base_Offset": "base+1AA88658,BC,58,A97",
+            "MW_Base_Offset": "base+1AA88658,AC,58,A97",
             "CW_Base_Offset": "base+147B0BA8,38,770,20"
         },
         "Downloads": {
@@ -44,12 +44,16 @@
     "UnlockAll": {
         "Downloads": {
             "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899246703364964412/UnlockAllAssets.zip",
-            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/900123858118520832/lznJGrAXVxbPnhon.dll",
-            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/900123864879726613/TarYCEZFnLOLgpfZ.dll"
+            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/907041214874935306/lznJGrAXVxbPnhon.dll",
+            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/907041216816873502/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
-            "Status": "Updating",
+            "Status": "Undetected",
             "PatchNotes": [
+                {
+                    "Date": "7/11/2021",
+                    "Info": "[+] Updated for 1.45.0"
+                },
                 {
                     "Date": "19/10/2021",
                     "Info": "[+] Updated for 1.44.0"

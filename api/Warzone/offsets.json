@@ -18,6 +18,10 @@
             "Status": "Undetected",
             "PatchNotes": [
                 {
+                    "Date": "17/11/2021",
+                    "Info": "[+] Updated for 1.45.2"
+                },
+                {
                     "Date": "05/11/2021",
                     "Info": "[+] Updated for 1.45.0"
                 },
@@ -44,12 +48,16 @@
     "UnlockAll": {
         "Downloads": {
             "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899246703364964412/UnlockAllAssets.zip",
-            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/907041214874935306/lznJGrAXVxbPnhon.dll",
-            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/907041216816873502/TarYCEZFnLOLgpfZ.dll"
+            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/910564343056310272/lznJGrAXVxbPnhon.dll",
+            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/910564348295020554/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
+                {
+                    "Date": "17/11/2021",
+                    "Info": "[+] Updated for 1.45.2"
+                },
                 {
                     "Date": "7/11/2021",
                     "Info": "[+] Updated for 1.45.0"

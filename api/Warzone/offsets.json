@@ -6,7 +6,7 @@
     },
     "Reverse_Camo": {
         "Offset": {
-            "MW_Base_Offset": "base+1AAAA658,AC,58,A97",
+            "MW_Base_Offset": "base+1AA8A000,BC,58,A97",
             "CW_Base_Offset": "base+1A78A7F0,38,770,20"
         },
         "Downloads": {
@@ -17,6 +17,10 @@
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
+                {
+                    "Date": "20/11/2021",
+                    "Info": "[+] Updated for 1.45.3"
+                },
                 {
                     "Date": "17/11/2021",
                     "Info": "[+] Updated for 1.45.2"
@@ -48,12 +52,16 @@
     "UnlockAll": {
         "Downloads": {
             "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899246703364964412/UnlockAllAssets.zip",
-            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/910564343056310272/lznJGrAXVxbPnhon.dll",
-            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/910564348295020554/TarYCEZFnLOLgpfZ.dll"
+            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/911744055917027388/lznJGrAXVxbPnhon.dll",
+            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/911744056147705937/TarYCEZFnLOLgpfZ.dll"
         },
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
+                {
+                    "Date": "20/11/2021",
+                    "Info": "[+] Updated for 1.45.3"
+                },
                 {
                     "Date": "17/11/2021",
                     "Info": "[+] Updated for 1.45.2"

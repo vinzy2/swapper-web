@@ -6,8 +6,9 @@
     },
     "Reverse_Camo": {
         "Offset": {
-            "MW_Base_Offset": "base+1AA42658,1AC,58,A97",
-            "CW_Base_Offset": "base+0944FCF0,28,B90,900,20"
+            "MW_Base_Offset": "base+22E67804,50,90C,7",
+            "CW_Base_Offset": "base+22E67804,6e8,728",
+            "VG_Base_Offset": "base+22E67804,748,490,2d"
         },
         "Downloads": {
             "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/899217695311024128/bjZnZLzqNblmPADd.exe",

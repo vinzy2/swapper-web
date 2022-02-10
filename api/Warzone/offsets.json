@@ -11,8 +11,8 @@
     },
     "Reverse_Camo": {
         "Offset": {
-            "MW_Base_Offset": "base+22A1B084,50,908,7",
-            "CW_Base_Offset": "base+09647A30,28,B90,3D8,0",
+            "MW_Base_Offset": "base+09647A30,28,D50,636,284",
+            "CW_Base_Offset": "base+09647A30,28,D50,636,284",
             "VG_Base_Offset": "base+22E67804,748,490,2d"
         },
         "Info": {

@@ -1,7 +1,7 @@
 {
     "Downloader": {
         "Download": {
-            "ExeFile": "https://cdn.discordapp.com/attachments/899251365543575633/900124774318084096/KaedeLoade.exe"
+            "ExeFile": "HERE"
         }
     },
     "Reverse_Camo": {
@@ -10,74 +10,26 @@
             "CW_Base_Offset": "base+09478EA0,28,558,3E8,0",
             "VG_Base_Offset": "base+22E67804,748,490,2d"
         },
-        "Downloads": {
-            "MainExe": "https://cdn.discordapp.com/attachments/889423498945101837/899217695311024128/bjZnZLzqNblmPADd.exe",
-            "tskdll": "https://cdn.discordapp.com/attachments/889423498945101837/899216000556335124/GAaRhpTFyXfcjLAs.dll",
-            "injecttor": "https://cdn.discordapp.com/attachments/889423498945101837/899216001751744512/MGUUdVqkuDdJhjXN.exe"
-        },
         "Info": {
-            "Status": "Undetected",
+            "Status": "Unknown",
             "PatchNotes": [
                 {
-                    "Date": "20/11/2021",
-                    "Info": "[+] Updated for 1.45.3"
-                },
-                {
-                    "Date": "17/11/2021",
-                    "Info": "[+] Updated for 1.45.2"
-                },
-                {
-                    "Date": "05/11/2021",
-                    "Info": "[+] Updated for 1.45.0"
-                },
-                {
-                    "Date": "30/10/2021",
-                    "Info": "[+] Updated for 1.44.1"
-                },
-
-                {
-                    "Date": "19/10/2021",
-                    "Info": "[+] Updated for 1.44.0"
-                },
-                {
-                    "Date": "17/10/2021",
-                    "Info": "[+] Updated for 1.43.2"
-                },
-                {
-                    "Date": "10/10/2021",
-                    "Info": "[+] Added Activcamo\n[+] Added Banded\n[+] Added Hot and Cold"
+                    "Date": "10/02/2022",
+                    "Info": "[+] Updated for Warzone Pacific"
                 }
             ]
         }
     },
     "UnlockAll": {
         "Downloads": {
-            "RarFile": "https://cdn.discordapp.com/attachments/889423498945101837/899246703364964412/UnlockAllAssets.zip",
-            "Weapons": "https://cdn.discordapp.com/attachments/889423498945101837/911744055917027388/lznJGrAXVxbPnhon.dll",
-            "Other": "https://cdn.discordapp.com/attachments/889423498945101837/911744056147705937/TarYCEZFnLOLgpfZ.dll"
+            "Rar": ""
         },
         "Info": {
             "Status": "Undetected",
             "PatchNotes": [
                 {
-                    "Date": "20/11/2021",
-                    "Info": "[+] Updated for 1.45.3"
-                },
-                {
-                    "Date": "17/11/2021",
-                    "Info": "[+] Updated for 1.45.2"
-                },
-                {
-                    "Date": "7/11/2021",
-                    "Info": "[+] Updated for 1.45.0"
-                },
-                {
-                    "Date": "19/10/2021",
-                    "Info": "[+] Updated for 1.44.0"
-                },
-                {
-                    "Date": "17/10/2021",
-                    "Info": "[+] Updated for 1.43.2"
+                    "Date": "10/02/2022",
+                    "Info": "[+] Updated for Warzone Pacific"
                 }
             ]
         }

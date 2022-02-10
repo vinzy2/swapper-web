@@ -1,7 +1,12 @@
 {
+    "Information": {
+        "Discord": {
+            "Invite": "https://discord.gg/x56fknX6Ta"
+        }
+    },
     "Downloader": {
         "Download": {
-            "ExeFile": "HERE"
+            "ExeFile": "https://cdn.discordapp.com/attachments/928685752416608306/941441001803898910/0xkaede_WZ_Download.exe"
         }
     },
     "Reverse_Camo": {

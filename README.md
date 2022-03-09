@@ -1,3 +1,3 @@
 # WebSite
 
-Juicy Swapper website and api.
+Swapper website and api.
